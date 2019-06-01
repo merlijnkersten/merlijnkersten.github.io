@@ -13,3 +13,4 @@ And another one!
 
 *Can you see the second image?*
 
+Is there a link here? [Link to another page](./soloespresso.html).
