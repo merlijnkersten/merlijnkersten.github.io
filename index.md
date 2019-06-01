@@ -1,16 +1,9 @@
 ## I'm trying to build a website.
-There are probably loads of errors. 
-
-There should be an image underneath:
+There are probably loads of errors. If you spot one: mailto:kerstenmerlijn@gmail.com
 
 ![alt text](/assets/image1.jpg "First image!")
 
-*Can you see an image above?*
-
-And another one!
-
-![alt text](/assets/image2.jpg "Second image!")
-
-*Can you see the second image?*
-
-Is there a link here? [Link to another page](./soloespresso.html).
++ www.printi.me/mango
++ www.soloespresso.tumblr.com or merlijnkersten.github.io/soloespresso
++ www.nerdonanisland.tumblr.com or _coming soon_
++ www.instagram.com/merlinmcmxcvii/
