@@ -1,5 +1,5 @@
 ## I'm trying to build a website.
-There are probably loads of errors. If you spot one: [kerstenmerlijn@gmail.com](mailto:kerstenmerlijn@gmail.com "kerstenmerlijn@gmail.com")
+There are probably loads of errors. If you spot one: [kerstenmerlijn@gmail.com](mailto:kerstenmerlijn@gmail.com "kerstenmerlijn@gmail.com").
 
 ![alt text](/assets/image1.jpg "First image!")
 
