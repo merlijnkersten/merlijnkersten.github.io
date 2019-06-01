@@ -8,6 +8,7 @@ There should be an image underneath:
 *Can you see an image above?*
 
 And another one!
+
 ![alt text](/assets/image2.jpg "Second image!")
 
 *Can you see the second image?*
