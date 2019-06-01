@@ -40,7 +40,7 @@ _22 May_
 
 ![alt text](/assets/soloespresso2019-05-21.jpg "21 May")
 
-_21 May_
+_21 May_ Layla is back
 
 
 ![alt text](/assets/soloespresso2019-05-20.jpg "20 May")
@@ -65,12 +65,12 @@ _17 May_
 
 ![alt text](/assets/soloespresso2019-05-16.jpg "16 May")
 
-_16 May_
+_16 May_ ... library scapes.
 
 
 ![alt text](/assets/soloespresso2019-05-15.jpg "15 May")
 
-_15 May_
+_15 May_ Trainscapes ...
 
 
 ![alt text](/assets/soloespresso2019-05-14.jpg "14 May")
@@ -95,22 +95,22 @@ _11 May_
 
 ![alt text](/assets/soloespresso2019-05-10.jpg "10 May")
 
-_10 May_
+_10 May_ New favourite plant
 
 
 ![alt text](/assets/soloespresso2019-05-09.jpg "9 May")
 
-_9 May_
+_9 May_ Back again (11 October)
 
 
 ![alt text](/assets/soloespresso2019-05-08.jpg "8 May")
 
-_8 May_
+_8 May_ First harvest!
 
 
 ![alt text](/assets/soloespresso2019-05-07.jpg "7 May")
 
-_7 May_ 
+_7 May_ S u s t e n a n c e
 
 
 ![alt text](/assets/soloespresso2019-05-06.jpg "6 May")
@@ -135,21 +135,21 @@ _3 May_
 
 ![alt text](/assets/soloespresso2019-05-02.jpg "2 May")
 
-_2 May_
+_2 May_ It's free real estate!
 
 
 ![alt text](/assets/soloespresso2019-05-01.jpg "1 May")
 
-_1 May_
+_1 May_ Into nowhere
 
 
 ![alt text](/assets/soloespresso2019-04-30.jpg "30 April")
 
-_30 April_ 
+_30 April_ CheatL Urban jungle
 
 ![alt text](/assets/soloespresso2019-04-29.jpg "29 April")
 
-_29 April_ 
+_29 April_ www.printi.me/mango
 
 
 ![alt text](/assets/soloespresso2019-04-28.jpg "28 April")
@@ -167,12 +167,12 @@ _26 April_
 
 ![alt text](/assets/soloespresso2019-04-25.jpg "25 April")
 
-_25 April_
+_25 April_ First beans
 
 
 ![alt text](/assets/soloespresso2019-04-24.jpg "24 April")
 
-_24 April_
+_24 April_ Hazy days
 
 
 ![alt text](/assets/soloespresso2019-04-23.jpg "23 April")
@@ -182,12 +182,12 @@ _23 April_
 
 ![alt text](/assets/soloespresso2019-04-22.jpg "22 April")
 
-_22 April_
+_22 April_ Dandelions are rather tasty
 
 
 ![alt text](/assets/soloespresso2019-04-21.jpg "21 April")
 
-_21 April_
+_21 April_ One year anniversary ✨ (21 April 2018)
 
 
 ![alt text](/assets/soloespresso2019-04-20.jpg "20 April")
@@ -197,7 +197,7 @@ _20 April_
 
 ![alt text](/assets/soloespresso2019-04-19.jpg "19 April")
 
-_19 April_
+_19 April_ A royal study spot
 
 
 ![alt text](/assets/soloespresso2019-04-18.jpg "18 April")
@@ -217,12 +217,12 @@ _16 April_
 
 ![alt text](/assets/soloespresso2019-04-15.jpg "15 April")
 
-_15 April_
+_15 April_ A feat for the gluttonous
 
 
 ![alt text](/assets/soloespresso2019-04-14.jpg "14 April")
 
-_14 April_
+_14 April_ First bean-flower
 
 
 ![alt text](/assets/soloespresso2019-04-13.jpg "13 April")
@@ -267,7 +267,7 @@ _6 April_
 
 ![alt text](/assets/soloespresso2019-04-05.jpg "5 April")
 
-_5 April_
+_5 April_ No library, articles, or essays in sight
 
 
 ![alt text](/assets/soloespresso2019-04-04.jpg "4 April")
@@ -277,7 +277,7 @@ _4 April_
 
 ![alt text](/assets/soloespresso2019-04-03.jpg "3 April")
 
-_3 April_
+_3 April_ Home office
 
 
 ![alt text](/assets/soloespresso2019-04-02.jpg "2 April")
@@ -295,7 +295,7 @@ _31 March_
 
 ![alt text](/assets/soloespresso2019-03-30.jpg "30 March")
 
-_30 March_ 
+_30 March_ 🍓
 
 ![alt text](/assets/soloespresso2019-03-29.jpg "29 March")
 
@@ -317,7 +317,7 @@ _26 March_
 
 ![alt text](/assets/soloespresso2019-03-25.jpg "25 March")
 
-_25 March_
+_25 March_ Beautiful pollution
 
 
 ![alt text](/assets/soloespresso2019-03-24.jpg "24 March")
@@ -342,7 +342,7 @@ _21 March_
 
 ![alt text](/assets/soloespresso2019-03-20.jpg "20 March")
 
-_20 March_
+_20 March_ Opposite days (cheat: I didn't take this photo)
 
 
 ![alt text](/assets/soloespresso2019-03-19.jpg "19 March")
@@ -362,12 +362,12 @@ _17 March_
 
 ![alt text](/assets/soloespresso2019-03-16.jpg "16 March")
 
-_16 March_
+_16 March_ Maart roert hen staart
 
 
 ![alt text](/assets/soloespresso2019-03-15.jpg "15 March")
 
-_15 March_
+_15 March_ Cheat from last Saturday
 
 
 ![alt text](/assets/soloespresso2019-03-14.jpg "14 March")
@@ -377,17 +377,17 @@ _14 March_
 
 ![alt text](/assets/soloespresso2019-03-13.jpg "13 March")
 
-_13 March_
+_13 March_ Pizzaaa
 
 
 ![alt text](/assets/soloespresso2019-03-12.jpg "12 March")
 
-_12 March_
+_12 March_ Cheat; 13 January. Fading sunlight at the library
 
 
 ![alt text](/assets/soloespresso2019-03-11.jpg "11 March")
 
-_11 March_
+_11 March_ Selfie-time 
 
 
 ![alt text](/assets/soloespresso2019-03-10.jpg "10 March")
@@ -397,12 +397,12 @@ _10 March_
 
 ![alt text](/assets/soloespresso2019-03-09.jpg "9 March")
 
-_9 March_
+_9 March_ This modern love
 
 
 ![alt text](/assets/soloespresso2019-03-08.jpg "8 March")
 
-_8 March_
+_8 March_ Etiquette #12: It’s rude to be noisy during a dinner
 
 
 ![alt text](/assets/soloespresso2019-03-07.jpg "7 March")
@@ -417,12 +417,12 @@ _6 March_
 
 ![alt text](/assets/soloespresso2019-03-05.jpg "5 March")
 
-_5 March_
+_5 March_ phonegraph / photodrama
 
 
 ![alt text](/assets/soloespresso2019-03-04.jpg "4 March")
 
-_4 March_
+_4 March_ Clean(er) bike = happy bike
 
 
 ![alt text](/assets/soloespresso2019-03-03.jpg "3 March")
@@ -432,17 +432,17 @@ _3 March_
 
 ![alt text](/assets/soloespresso2019-03-02.jpg "2 March")
 
-_2 March_
+_2 March_ The family is growing
 
 
 ![alt text](/assets/soloespresso2019-03-01.jpg "1 March")
 
-_1 March_
+_1 March_ VrijMiBo
 
 
 ![alt text](/assets/soloespresso2019-02-28.jpg "28 February")
 
-_28 February_ 
+_28 February_ Cheat:  Loch Leven on Sunday
 
 ![alt text](/assets/soloespresso2019-02-27.jpg "27 February")
 
@@ -450,7 +450,7 @@ _27 February_
 
 ![alt text](/assets/soloespresso2019-02-26.jpg "26 February")
 
-_26 February_
+_26 February_ As if today wasn’t hot enough yet
 
 
 ![alt text](/assets/soloespresso2019-02-25.jpg "25 February")
@@ -480,22 +480,22 @@ _21 February_
 
 ![alt text](/assets/soloespresso2019-02-20.jpg "20 February")
 
-_20 February_
+_20 February_  Shopping views
 
 
 ![alt text](/assets/soloespresso2019-02-19.jpg "19 February")
 
-_19 February_
+_19 February_ Breakfast
 
 
 ![alt text](/assets/soloespresso2019-02-18.jpg "18 February")
 
-_18 February_
+_18 February_ Here comes the sun
 
 
 ![alt text](/assets/soloespresso2019-02-17.jpg "17 February")
 
-_17 February_ 
+_17 February_ Home cooked | home baked
 
 
 ![alt text](/assets/soloespresso2019-02-16.jpg "16 February")
@@ -520,7 +520,7 @@ _13 February_
 
 ![alt text](/assets/soloespresso2019-02-12.jpg "12 February")
 
-_12 February_
+_12 February_ Pub 2/4 
 
 
 ![alt text](/assets/soloespresso2019-02-11.jpg "11 February")
@@ -535,7 +535,7 @@ _10 February_
 
 ![alt text](/assets/soloespresso2019-02-09.jpg "9 February")
 
-_9 February_
+_9 February_ 17:24
 
 
 ![alt text](/assets/soloespresso2019-02-08.jpg "8 February")
@@ -545,17 +545,17 @@ _8 February_
 
 ![alt text](/assets/soloespresso2019-02-07.jpg "7 February")
 
-_7 February_ 
+_7 February_ Bar-doggo
 
 
 ![alt text](/assets/soloespresso2019-02-06.jpg "6 February")
 
-_6 February_
+_6 February_ Welcome to the family
 
 
 ![alt text](/assets/soloespresso2019-02-05.jpg "5 February")
 
-_5 February_
+_5 February_ First time baking bread!
 
 
 ![alt text](/assets/soloespresso2019-02-04.jpg "4 February")
@@ -570,7 +570,7 @@ _3 February_
 
 ![alt text](/assets/soloespresso2019-02-02.jpg "2 February")
 
-_2 February_
+_2 February_ First snow
 
 
 ![alt text](/assets/soloespresso2019-02-01.jpg "1 February")
@@ -579,7 +579,7 @@ _1 February_
 
 ![alt text](/assets/soloespresso2019-01-31.jpg "31 January")
 
-_31 January_ 
+_31 January_ Springspringspring
 
 ![alt text](/assets/soloespresso2019-01-30.jpg "30 January")
 
@@ -587,7 +587,7 @@ _30 January_
 
 ![alt text](/assets/soloespresso2019-01-29.jpg "29 January")
 
-_29 January_ 
+_29 January_ Cheat—the Pentlands 5 months ago
 
 
 ![alt text](/assets/soloespresso2019-01-28.jpg "28 January")
@@ -596,7 +596,7 @@ _28 January_
 
 ![alt text](/assets/soloespresso2019-01-27.jpg "27 January")
 
-_27 January_ 
+_27 January_ Late-night boulevard runs
 
 ![alt text](/assets/soloespresso2019-01-26.jpg "26 January")
 
@@ -605,7 +605,7 @@ _26 January_
 
 ![alt text](/assets/soloespresso2019-01-25.jpg "25 January")
 
-_25 January_
+_25 January_ Cutiepies
 
 
 ![alt text](/assets/soloespresso2019-01-24.jpg "24 January")
@@ -615,7 +615,7 @@ _24 January_
 
 ![alt text](/assets/soloespresso2019-01-23.jpg "23 January")
 
-_23 January_
+_23 January_ Spring is coming
 
 
 ![alt text](/assets/soloespresso2019-01-22.jpg "22 January")
@@ -630,22 +630,22 @@ _21 January_
 
 ![alt text](/assets/soloespresso2019-01-20.jpg "20 January")
 
-_20 January_
+_20 January_ Leith walk
 
 
 ![alt text](/assets/soloespresso2019-01-19.jpg "19 January")
 
-_19 January_
+_19 January_ Cheat—thanks to Angie for takings this one
 
 
 ![alt text](/assets/soloespresso2019-01-18.jpg "18 January")
 
-_18 January_
+_18 January_ Swans, deer, and a flat tire
 
 
 ![alt text](/assets/soloespresso2019-01-17.jpg "17 January")
 
-_17 January_ 
+_17 January_ Liquid lunch
 
 
 ![alt text](/assets/soloespresso2019-01-16.jpg "16 January")
@@ -665,12 +665,12 @@ _14 January_
 
 ![alt text](/assets/soloespresso2019-01-13.jpg "13 January")
 
-_13 January_
+_13 January_ Back at it again
 
 
 ![alt text](/assets/soloespresso2019-01-12.jpg "12 January")
 
-_12 January_
+_12 January_ Trainscapes
 
 
 ![alt text](/assets/soloespresso2019-01-11.jpg "11 January")
@@ -685,7 +685,7 @@ _10 January_
 
 ![alt text](/assets/soloespresso2019-01-09.jpg "9 January")
 
-_9 January_
+_9 January_ Bed time
 
 
 ![alt text](/assets/soloespresso2019-01-08.jpg "8 January")
@@ -695,17 +695,17 @@ _8 January_
 
 ![alt text](/assets/soloespresso2019-01-07.jpg "7 January")
 
-_7 January_ 
+_7 January_ ❌❌❌
 
 
 ![alt text](/assets/soloespresso2019-01-06.jpg "6 January")
 
-_6 January_
+_6 January_ Le Chef
 
 
 ![alt text](/assets/soloespresso2019-01-05.jpg "5 January")
 
-_5 January_
+_5 January_ ⛸
 
 
 ![alt text](/assets/soloespresso2019-01-04.jpg "4 January")
