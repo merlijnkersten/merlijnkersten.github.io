@@ -32,7 +32,7 @@
 
 # https://stackoverflow.com/questions/19501711/how-can-i-convert-os-path-getctime
 # For correct date+time
-
+'''
 import os
 from datetime import datetime
 
@@ -46,6 +46,7 @@ print(c)
 new_path = os.path.join("Renamed", c)
 print(new_path)
 os.rename(old_path, new_path)
+'''
 '''
 print(True == 1)
 
