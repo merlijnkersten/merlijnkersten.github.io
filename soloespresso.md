@@ -726,3 +726,1098 @@ _2 January_
 ![alt text](/assets/soloespresso2019-01-01.jpg "1 January")
 
 _1 January_
+
+
+![alt text](/assets/soloespresso2018-12-31.jpg "31 December")
+
+_31 December_ 
+
+![alt text](/assets/soloespresso2018-12-30.jpg "30 December")
+
+_30 December_ 
+
+![alt text](/assets/soloespresso2018-12-29.jpg "29 December")
+
+_29 December_ 
+
+
+![alt text](/assets/soloespresso2018-12-28.jpg "28 December")
+
+_28 December_ 
+
+![alt text](/assets/soloespresso2018-12-27.jpg "27 December")
+
+_27 December_ 
+
+![alt text](/assets/soloespresso2018-12-26.jpg "26 December")
+
+_26 December_
+
+
+![alt text](/assets/soloespresso2018-12-25.jpg "25 December")
+
+_25 December_
+
+
+![alt text](/assets/soloespresso2018-12-24.jpg "24 December")
+
+_24 December_
+
+
+![alt text](/assets/soloespresso2018-12-23.jpg "23 December")
+
+_23 December_
+
+
+![alt text](/assets/soloespresso2018-12-22.jpg "22 December")
+
+_22 December_
+
+
+![alt text](/assets/soloespresso2018-12-21.jpg "21 December")
+
+_21 December_
+
+
+![alt text](/assets/soloespresso2018-12-20.jpg "20 December")
+
+_20 December_
+
+
+![alt text](/assets/soloespresso2018-12-19.jpg "19 December")
+
+_19 December_
+
+
+![alt text](/assets/soloespresso2018-12-18.jpg "18 December")
+
+_18 December_
+
+
+![alt text](/assets/soloespresso2018-12-17.jpg "17 December")
+
+_17 December_ 
+
+
+![alt text](/assets/soloespresso2018-12-16.jpg "16 December")
+
+_16 December_
+
+
+![alt text](/assets/soloespresso2018-12-15.jpg "15 December")
+
+_15 December_
+
+
+![alt text](/assets/soloespresso2018-12-14.jpg "14 December")
+
+_14 December_
+
+
+![alt text](/assets/soloespresso2018-12-13.jpg "13 December")
+
+_13 December_
+
+
+![alt text](/assets/soloespresso2018-12-12.jpg "12 December")
+
+_12 December_
+
+
+![alt text](/assets/soloespresso2018-12-11.jpg "11 December")
+
+_11 December_
+
+
+![alt text](/assets/soloespresso2018-12-10.jpg "10 December")
+
+_10 December_
+
+
+![alt text](/assets/soloespresso2018-12-09.jpg "9 December")
+
+_9 December_
+
+
+![alt text](/assets/soloespresso2018-12-08.jpg "8 December")
+
+_8 December_
+
+
+![alt text](/assets/soloespresso2018-12-07.jpg "7 December")
+
+_7 December_ 
+
+
+![alt text](/assets/soloespresso2018-12-06.jpg "6 December")
+
+_6 December_
+
+
+![alt text](/assets/soloespresso2018-12-05.jpg "5 December")
+
+_5 December_
+
+
+![alt text](/assets/soloespresso2018-12-04.jpg "4 December")
+
+_4 December_
+
+
+![alt text](/assets/soloespresso2018-12-03.jpg "3 December")
+
+_3 December_
+
+
+![alt text](/assets/soloespresso2018-12-02.jpg "2 December")
+
+_2 December_
+
+
+![alt text](/assets/soloespresso2018-12-01.jpg "1 December")
+
+_1 December_
+
+
+![alt text](/assets/soloespresso2018-11-30.jpg "30 November")
+
+_30 November_ 
+
+![alt text](/assets/soloespresso2018-11-29.jpg "29 November")
+
+_29 November_ 
+
+
+![alt text](/assets/soloespresso2018-11-28.jpg "28 November")
+
+_28 November_ 
+
+![alt text](/assets/soloespresso2018-11-27.jpg "27 November")
+
+_27 November_ 
+
+![alt text](/assets/soloespresso2018-11-26.jpg "26 November")
+
+_26 November_
+
+
+![alt text](/assets/soloespresso2018-11-25.jpg "25 November")
+
+_25 November_
+
+
+![alt text](/assets/soloespresso2018-11-24.jpg "24 November")
+
+_24 November_
+
+
+![alt text](/assets/soloespresso2018-11-23.jpg "23 November")
+
+_23 November_
+
+
+![alt text](/assets/soloespresso2018-11-22.jpg "22 November")
+
+_22 November_
+
+
+![alt text](/assets/soloespresso2018-11-21.jpg "21 November")
+
+_21 November_
+
+
+![alt text](/assets/soloespresso2018-11-20.jpg "20 November")
+
+_20 November_
+
+
+![alt text](/assets/soloespresso2018-11-19.jpg "19 November")
+
+_19 November_
+
+
+![alt text](/assets/soloespresso2018-11-18.jpg "18 November")
+
+_18 November_
+
+
+![alt text](/assets/soloespresso2018-11-17.jpg "17 November")
+
+_17 November_ 
+
+
+![alt text](/assets/soloespresso2018-11-16.jpg "16 November")
+
+_16 November_
+
+
+![alt text](/assets/soloespresso2018-11-15.jpg "15 November")
+
+_15 November_
+
+
+![alt text](/assets/soloespresso2018-11-14.jpg "14 November")
+
+_14 November_
+
+
+![alt text](/assets/soloespresso2018-11-13.jpg "13 November")
+
+_13 November_
+
+
+![alt text](/assets/soloespresso2018-11-12.jpg "12 November")
+
+_12 November_
+
+
+![alt text](/assets/soloespresso2018-11-11.jpg "11 November")
+
+_11 November_
+
+
+![alt text](/assets/soloespresso2018-11-10.jpg "10 November")
+
+_10 November_
+
+
+![alt text](/assets/soloespresso2018-11-09.jpg "9 November")
+
+_9 November_
+
+
+![alt text](/assets/soloespresso2018-11-08.jpg "8 November")
+
+_8 November_
+
+
+![alt text](/assets/soloespresso2018-11-07.jpg "7 November")
+
+_7 November_ 
+
+
+![alt text](/assets/soloespresso2018-11-06.jpg "6 November")
+
+_6 November_
+
+
+![alt text](/assets/soloespresso2018-11-05.jpg "5 November")
+
+_5 November_
+
+
+![alt text](/assets/soloespresso2018-11-04.jpg "4 November")
+
+_4 November_
+
+
+![alt text](/assets/soloespresso2018-11-03.jpg "3 November")
+
+_3 November_
+
+
+![alt text](/assets/soloespresso2018-11-02.jpg "2 November")
+
+_2 November_
+
+
+![alt text](/assets/soloespresso2018-11-01.jpg "1 November")
+
+_1 November_
+
+
+![alt text](/assets/soloespresso2018-10-31.jpg "31 October")
+
+_31 October_ 
+
+![alt text](/assets/soloespresso2018-10-30.jpg "30 October")
+
+_30 October_ 
+
+![alt text](/assets/soloespresso2018-10-29.jpg "29 October")
+
+_29 October_ 
+
+
+![alt text](/assets/soloespresso2018-10-28.jpg "28 October")
+
+_28 October_ 
+
+![alt text](/assets/soloespresso2018-10-27.jpg "27 October")
+
+_27 October_ 
+
+![alt text](/assets/soloespresso2018-10-26.jpg "26 October")
+
+_26 October_
+
+
+![alt text](/assets/soloespresso2018-10-25.jpg "25 October")
+
+_25 October_
+
+
+![alt text](/assets/soloespresso2018-10-24.jpg "24 October")
+
+_24 October_
+
+
+![alt text](/assets/soloespresso2018-10-23.jpg "23 October")
+
+_23 October_
+
+
+![alt text](/assets/soloespresso2018-10-22.jpg "22 October")
+
+_22 October_
+
+
+![alt text](/assets/soloespresso2018-10-21.jpg "21 October")
+
+_21 October_
+
+
+![alt text](/assets/soloespresso2018-10-20.jpg "20 October")
+
+_20 October_
+
+
+![alt text](/assets/soloespresso2018-10-19.jpg "19 October")
+
+_19 October_
+
+
+![alt text](/assets/soloespresso2018-10-18.jpg "18 October")
+
+_18 October_
+
+
+![alt text](/assets/soloespresso2018-10-17.jpg "17 October")
+
+_17 October_ 
+
+
+![alt text](/assets/soloespresso2018-10-16.jpg "16 October")
+
+_16 October_
+
+
+![alt text](/assets/soloespresso2018-10-15.jpg "15 October")
+
+_15 October_
+
+
+![alt text](/assets/soloespresso2018-10-14.jpg "14 October")
+
+_14 October_
+
+
+![alt text](/assets/soloespresso2018-10-13.jpg "13 October")
+
+_13 October_
+
+
+![alt text](/assets/soloespresso2018-10-12.jpg "12 October")
+
+_12 October_
+
+
+![alt text](/assets/soloespresso2018-10-11.jpg "11 October")
+
+_11 October_
+
+
+![alt text](/assets/soloespresso2018-10-10.jpg "10 October")
+
+_10 October_
+
+
+![alt text](/assets/soloespresso2018-10-09.jpg "9 October")
+
+_9 October_
+
+
+![alt text](/assets/soloespresso2018-10-08.jpg "8 October")
+
+_8 October_
+
+
+![alt text](/assets/soloespresso2018-10-07.jpg "7 October")
+
+_7 October_ 
+
+
+![alt text](/assets/soloespresso2018-10-06.jpg "6 October")
+
+_6 October_
+
+
+![alt text](/assets/soloespresso2018-10-05.jpg "5 October")
+
+_5 October_
+
+
+![alt text](/assets/soloespresso2018-10-04.jpg "4 October")
+
+_4 October_
+
+
+![alt text](/assets/soloespresso2018-10-03.jpg "3 October")
+
+_3 October_
+
+
+![alt text](/assets/soloespresso2018-10-02.jpg "2 October")
+
+_2 October_
+
+
+![alt text](/assets/soloespresso2018-10-01.jpg "1 October")
+
+_1 October_
+
+
+![alt text](/assets/soloespresso2018-09-30.jpg "30 September")
+
+_30 September_ 
+
+![alt text](/assets/soloespresso2018-09-29.jpg "29 September")
+
+_29 September_ 
+
+
+![alt text](/assets/soloespresso2018-09-28.jpg "28 September")
+
+_28 September_ 
+
+![alt text](/assets/soloespresso2018-09-27.jpg "27 September")
+
+_27 September_ 
+
+![alt text](/assets/soloespresso2018-09-26.jpg "26 September")
+
+_26 September_
+
+
+![alt text](/assets/soloespresso2018-09-25.jpg "25 September")
+
+_25 September_
+
+
+![alt text](/assets/soloespresso2018-09-24.jpg "24 September")
+
+_24 September_
+
+
+![alt text](/assets/soloespresso2018-09-23.jpg "23 September")
+
+_23 September_
+
+
+![alt text](/assets/soloespresso2018-09-22.jpg "22 September")
+
+_22 September_
+
+
+![alt text](/assets/soloespresso2018-09-21.jpg "21 September")
+
+_21 September_
+
+
+![alt text](/assets/soloespresso2018-09-20.jpg "20 September")
+
+_20 September_
+
+
+![alt text](/assets/soloespresso2018-09-19.jpg "19 September")
+
+_19 September_
+
+
+![alt text](/assets/soloespresso2018-09-18.jpg "18 September")
+
+_18 September_
+
+
+![alt text](/assets/soloespresso2018-09-17.jpg "17 September")
+
+_17 September_ 
+
+
+![alt text](/assets/soloespresso2018-09-16.jpg "16 September")
+
+_16 September_
+
+
+![alt text](/assets/soloespresso2018-09-15.jpg "15 September")
+
+_15 September_
+
+
+![alt text](/assets/soloespresso2018-09-14.jpg "14 September")
+
+_14 September_
+
+
+![alt text](/assets/soloespresso2018-09-13.jpg "13 September")
+
+_13 September_
+
+
+![alt text](/assets/soloespresso2018-09-12.jpg "12 September")
+
+_12 September_
+
+
+![alt text](/assets/soloespresso2018-09-11.jpg "11 September")
+
+_11 September_
+
+
+![alt text](/assets/soloespresso2018-09-10.jpg "10 September")
+
+_10 September_
+
+
+![alt text](/assets/soloespresso2018-09-09.jpg "9 September")
+
+_9 September_
+
+
+![alt text](/assets/soloespresso2018-09-08.jpg "8 September")
+
+_8 September_
+
+
+![alt text](/assets/soloespresso2018-09-07.jpg "7 September")
+
+_7 September_ 
+
+
+![alt text](/assets/soloespresso2018-09-06.jpg "6 September")
+
+_6 September_
+
+
+![alt text](/assets/soloespresso2018-09-05.jpg "5 September")
+
+_5 September_
+
+
+![alt text](/assets/soloespresso2018-09-04.jpg "4 September")
+
+_4 September_
+
+
+![alt text](/assets/soloespresso2018-09-03.jpg "3 September")
+
+_3 September_
+
+
+![alt text](/assets/soloespresso2018-09-02.jpg "2 September")
+
+_2 September_
+
+
+![alt text](/assets/soloespresso2018-09-01.jpg "1 September")
+
+_1 September_
+
+![alt text](/assets/soloespresso2018-08-31.jpg "31 August")
+
+_31 August_ 
+
+![alt text](/assets/soloespresso2018-08-30.jpg "30 August")
+
+_30 August_ 
+
+![alt text](/assets/soloespresso2018-08-29.jpg "29 August")
+
+_29 August_ 
+
+
+![alt text](/assets/soloespresso2018-08-28.jpg "28 August")
+
+_28 August_ 
+
+![alt text](/assets/soloespresso2018-08-27.jpg "27 August")
+
+_27 August_ 
+
+![alt text](/assets/soloespresso2018-08-26.jpg "26 August")
+
+_26 August_
+
+
+![alt text](/assets/soloespresso2018-08-25.jpg "25 August")
+
+_25 August_
+
+
+![alt text](/assets/soloespresso2018-08-24.jpg "24 August")
+
+_24 August_
+
+
+![alt text](/assets/soloespresso2018-08-23.jpg "23 August")
+
+_23 August_
+
+
+![alt text](/assets/soloespresso2018-08-22.jpg "22 August")
+
+_22 August_
+
+
+![alt text](/assets/soloespresso2018-08-21.jpg "21 August")
+
+_21 August_
+
+
+![alt text](/assets/soloespresso2018-08-20.jpg "20 August")
+
+_20 August_
+
+
+![alt text](/assets/soloespresso2018-08-19.jpg "19 August")
+
+_19 August_
+
+
+![alt text](/assets/soloespresso2018-08-18.jpg "18 August")
+
+_18 August_
+
+
+![alt text](/assets/soloespresso2018-08-17.jpg "17 August")
+
+_17 August_ 
+
+
+![alt text](/assets/soloespresso2018-08-16.jpg "16 August")
+
+_16 August_
+
+
+![alt text](/assets/soloespresso2018-08-15.jpg "15 August")
+
+_15 August_
+
+
+![alt text](/assets/soloespresso2018-08-14.jpg "14 August")
+
+_14 August_
+
+
+![alt text](/assets/soloespresso2018-08-13.jpg "13 August")
+
+_13 August_
+
+
+![alt text](/assets/soloespresso2018-08-12.jpg "12 August")
+
+_12 August_
+
+
+![alt text](/assets/soloespresso2018-08-11.jpg "11 August")
+
+_11 August_
+
+
+![alt text](/assets/soloespresso2018-08-10.jpg "10 August")
+
+_10 August_
+
+
+![alt text](/assets/soloespresso2018-08-09.jpg "9 August")
+
+_9 August_
+
+
+![alt text](/assets/soloespresso2018-08-08.jpg "8 August")
+
+_8 August_
+
+
+![alt text](/assets/soloespresso2018-08-07.jpg "7 August")
+
+_7 August_ 
+
+
+![alt text](/assets/soloespresso2018-08-06.jpg "6 August")
+
+_6 August_
+
+
+![alt text](/assets/soloespresso2018-08-05.jpg "5 August")
+
+_5 August_
+
+
+![alt text](/assets/soloespresso2018-08-04.jpg "4 August")
+
+_4 August_
+
+
+![alt text](/assets/soloespresso2018-08-03.jpg "3 August")
+
+_3 August_
+
+
+![alt text](/assets/soloespresso2018-08-02.jpg "2 August")
+
+_2 August_
+
+
+![alt text](/assets/soloespresso2018-08-01.jpg "1 August")
+
+_1 August_
+
+![alt text](/assets/soloespresso2018-07-31.jpg "31 July")
+
+_31 July_ 
+
+![alt text](/assets/soloespresso2018-07-30.jpg "30 July")
+
+_30 July_ 
+
+![alt text](/assets/soloespresso2018-07-29.jpg "29 July")
+
+_29 July_ 
+
+
+![alt text](/assets/soloespresso2018-07-28.jpg "28 July")
+
+_28 July_ 
+
+![alt text](/assets/soloespresso2018-07-27.jpg "27 July")
+
+_27 July_ 
+
+![alt text](/assets/soloespresso2018-07-26.jpg "26 July")
+
+_26 July_
+
+
+![alt text](/assets/soloespresso2018-07-25.jpg "25 July")
+
+_25 July_
+
+
+![alt text](/assets/soloespresso2018-07-24.jpg "24 July")
+
+_24 July_
+
+
+![alt text](/assets/soloespresso2018-07-23.jpg "23 July")
+
+_23 July_
+
+
+![alt text](/assets/soloespresso2018-07-22.jpg "22 July")
+
+_22 July_
+
+
+![alt text](/assets/soloespresso2018-07-21.jpg "21 July")
+
+_21 July_
+
+
+![alt text](/assets/soloespresso2018-07-20.jpg "20 July")
+
+_20 July_
+
+
+![alt text](/assets/soloespresso2018-07-19.jpg "19 July")
+
+_19 July_
+
+
+![alt text](/assets/soloespresso2018-07-18.jpg "18 July")
+
+_18 July_
+
+
+![alt text](/assets/soloespresso2018-07-17.jpg "17 July")
+
+_17 July_ 
+
+
+![alt text](/assets/soloespresso2018-07-16.jpg "16 July")
+
+_16 July_
+
+
+![alt text](/assets/soloespresso2018-07-15.jpg "15 July")
+
+_15 July_
+
+
+![alt text](/assets/soloespresso2018-07-14.jpg "14 July")
+
+_14 July_
+
+
+![alt text](/assets/soloespresso2018-07-13.jpg "13 July")
+
+_13 July_
+
+
+![alt text](/assets/soloespresso2018-07-12.jpg "12 July")
+
+_12 July_
+
+
+![alt text](/assets/soloespresso2018-07-11.jpg "11 July")
+
+_11 July_
+
+
+![alt text](/assets/soloespresso2018-07-10.jpg "10 July")
+
+_10 July_
+
+
+![alt text](/assets/soloespresso2018-07-09.jpg "9 July")
+
+_9 July_
+
+
+![alt text](/assets/soloespresso2018-07-08.jpg "8 July")
+
+_8 July_
+
+
+![alt text](/assets/soloespresso2018-07-07.jpg "7 July")
+
+_7 July_ 
+
+
+![alt text](/assets/soloespresso2018-07-06.jpg "6 July")
+
+_6 July_
+
+
+![alt text](/assets/soloespresso2018-07-05.jpg "5 July")
+
+_5 July_
+
+
+![alt text](/assets/soloespresso2018-07-04.jpg "4 July")
+
+_4 July_
+
+
+![alt text](/assets/soloespresso2018-07-03.jpg "3 July")
+
+_3 July_
+
+
+![alt text](/assets/soloespresso2018-07-02.jpg "2 July")
+
+_2 July_
+
+
+![alt text](/assets/soloespresso2018-07-01.jpg "1 July")
+
+_1 July_
+
+![alt text](/assets/soloespresso2018-06-30.jpg "30 June")
+
+_30 June_ 
+
+![alt text](/assets/soloespresso2018-06-29.jpg "29 June")
+
+_29 June_ 
+
+
+![alt text](/assets/soloespresso2018-06-28.jpg "28 June")
+
+_28 June_ 
+
+![alt text](/assets/soloespresso2018-06-27.jpg "27 June")
+
+_27 June_ 
+
+![alt text](/assets/soloespresso2018-06-26.jpg "26 June")
+
+_26 June_
+
+
+![alt text](/assets/soloespresso2018-06-25.jpg "25 June")
+
+_25 June_
+
+
+![alt text](/assets/soloespresso2018-06-24.jpg "24 June")
+
+_24 June_
+
+
+![alt text](/assets/soloespresso2018-06-23.jpg "23 June")
+
+_23 June_
+
+
+![alt text](/assets/soloespresso2018-06-22.jpg "22 June")
+
+_22 June_
+
+
+![alt text](/assets/soloespresso2018-06-21.jpg "21 June")
+
+_21 June_
+
+
+![alt text](/assets/soloespresso2018-06-20.jpg "20 June")
+
+_20 June_
+
+
+![alt text](/assets/soloespresso2018-06-19.jpg "19 June")
+
+_19 June_
+
+
+![alt text](/assets/soloespresso2018-06-18.jpg "18 June")
+
+_18 June_
+
+
+![alt text](/assets/soloespresso2018-06-17.jpg "17 June")
+
+_17 June_ 
+
+
+![alt text](/assets/soloespresso2018-06-16.jpg "16 June")
+
+_16 June_
+
+
+![alt text](/assets/soloespresso2018-06-15.jpg "15 June")
+
+_15 June_
+
+
+![alt text](/assets/soloespresso2018-06-14.jpg "14 June")
+
+_14 June_
+
+
+![alt text](/assets/soloespresso2018-06-13.jpg "13 June")
+
+_13 June_
+
+
+![alt text](/assets/soloespresso2018-06-12.jpg "12 June")
+
+_12 June_
+
+
+![alt text](/assets/soloespresso2018-06-11.jpg "11 June")
+
+_11 June_
+
+
+![alt text](/assets/soloespresso2018-06-10.jpg "10 June")
+
+_10 June_
+
+
+![alt text](/assets/soloespresso2018-06-09.jpg "9 June")
+
+_9 June_
+
+
+![alt text](/assets/soloespresso2018-06-08.jpg "8 June")
+
+_8 June_
+
+
+![alt text](/assets/soloespresso2018-06-07.jpg "7 June")
+
+_7 June_ 
+
+
+![alt text](/assets/soloespresso2018-06-06.jpg "6 June")
+
+_6 June_
+
+
+![alt text](/assets/soloespresso2018-06-05.jpg "5 June")
+
+_5 June_
+
+
+![alt text](/assets/soloespresso2018-06-04.jpg "4 June")
+
+_4 June_
+
+
+![alt text](/assets/soloespresso2018-06-03.jpg "3 June")
+
+_3 June_
+
+
+![alt text](/assets/soloespresso2018-06-02.jpg "2 June")
+
+_2 June_
+
+
+![alt text](/assets/soloespresso2018-06-01.jpg "1 June")
+
+_1 June_
+
+![alt text](/assets/soloespresso2018-05-31.jpg "31 May")
+
+_31 May_ 
+
+![alt text](/assets/soloespresso2018-05-30.jpg "30 May")
+
+_30 May_ 
+
+![alt text](/assets/soloespresso2018-05-29.jpg "29 May")
+
+_29 May_ 
+
+
+![alt text](/assets/soloespresso2018-05-28.jpg "28 May")
+
+_28 May_ 
+
+![alt text](/assets/soloespresso2018-05-27.jpg "27 May")
+
+_27 May_ 
+
+![alt text](/assets/soloespresso2018-05-26.jpg "26 May")
+
+_26 May_
+
+
+![alt text](/assets/soloespresso2018-05-25.jpg "25 May")
+
+_25 May_
+
+
+![alt text](/assets/soloespresso2018-05-24.jpg "24 May")
+
+_24 May_
+
+
+![alt text](/assets/soloespresso2018-05-23.jpg "23 May")
+
+_23 May_
+
+
+![alt text](/assets/soloespresso2018-05-22.jpg "22 May")
+
+_22 May_
+
+
+![alt text](/assets/soloespresso2018-05-21.jpg "21 May")
+
+_21 May_
+
+
+
