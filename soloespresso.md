@@ -761,7 +761,7 @@ _25 December_
 
 ![alt text](/assets/soloespresso2018-12-24.jpg "24 December")
 
-_24 December_
+_24 December_ Chirstmas preparations day 2/3
 
 
 ![alt text](/assets/soloespresso2018-12-23.jpg "23 December")
@@ -781,7 +781,7 @@ _21 December_
 
 ![alt text](/assets/soloespresso2018-12-20.jpg "20 December")
 
-_20 December_
+_20 December_ A new Room With a View
 
 
 ![alt text](/assets/soloespresso2018-12-19.jpg "19 December")
@@ -801,7 +801,7 @@ _17 December_
 
 ![alt text](/assets/soloespresso2018-12-16.jpg "16 December")
 
-_16 December_
+_16 December_ 9 assignments; 251 articles, papers, and book chapters; 92 days in the library
 
 
 ![alt text](/assets/soloespresso2018-12-15.jpg "15 December")
@@ -811,17 +811,17 @@ _15 December_
 
 ![alt text](/assets/soloespresso2018-12-14.jpg "14 December")
 
-_14 December_
+_14 December_ Cheat: soloespresso
 
 
 ![alt text](/assets/soloespresso2018-12-13.jpg "13 December")
 
-_13 December_
+_13 December_ Post from the Lion City
 
 
 ![alt text](/assets/soloespresso2018-12-12.jpg "12 December")
 
-_12 December_
+_12 December_ Growing up is a choice (🐢)
 
 
 ![alt text](/assets/soloespresso2018-12-11.jpg "11 December")
@@ -831,22 +831,22 @@ _11 December_
 
 ![alt text](/assets/soloespresso2018-12-10.jpg "10 December")
 
-_10 December_
+_10 December_ [The city looks pretty when you been indoors](https://www.youtube.com/watch?v=42XXZvrnHbM "The city looks pretty when you been indoors)
 
 
 ![alt text](/assets/soloespresso2018-12-09.jpg "9 December")
 
-_9 December_
+_9 December_ Three done, one to go (library views)
 
 
 ![alt text](/assets/soloespresso2018-12-08.jpg "8 December")
 
-_8 December_
+_8 December_ Diaries of an insomniac
 
 
 ![alt text](/assets/soloespresso2018-12-07.jpg "7 December")
 
-_7 December_ 
+_7 December_ Library views
 
 
 ![alt text](/assets/soloespresso2018-12-06.jpg "6 December")
@@ -856,12 +856,12 @@ _6 December_
 
 ![alt text](/assets/soloespresso2018-12-05.jpg "5 December")
 
-_5 December_
+_5 December_ Booksbooksbooks (Sinterklaas)
 
 
 ![alt text](/assets/soloespresso2018-12-04.jpg "4 December")
 
-_4 December_
+_4 December_ Early mornings
 
 
 ![alt text](/assets/soloespresso2018-12-03.jpg "3 December")
@@ -876,7 +876,7 @@ _2 December_
 
 ![alt text](/assets/soloespresso2018-12-01.jpg "1 December")
 
-_1 December_
+_1 December_ Drie nachtjes tot Sinterklaas
 
 
 ![alt text](/assets/soloespresso2018-11-30.jpg "30 November")
@@ -890,11 +890,11 @@ _29 November_
 
 ![alt text](/assets/soloespresso2018-11-28.jpg "28 November")
 
-_28 November_ 
+_28 November_ New study views
 
 ![alt text](/assets/soloespresso2018-11-27.jpg "27 November")
 
-_27 November_ 
+_27 November_ Cheat n.8-the bedroom
 
 ![alt text](/assets/soloespresso2018-11-26.jpg "26 November")
 
@@ -913,7 +913,7 @@ _24 November_
 
 ![alt text](/assets/soloespresso2018-11-23.jpg "23 November")
 
-_23 November_
+_23 November_ Cheat: Glasgow
 
 
 ![alt text](/assets/soloespresso2018-11-22.jpg "22 November")
@@ -923,7 +923,7 @@ _22 November_
 
 ![alt text](/assets/soloespresso2018-11-21.jpg "21 November")
 
-_21 November_
+_21 November_ Een pakje uit Spanje
 
 
 ![alt text](/assets/soloespresso2018-11-20.jpg "20 November")
@@ -933,7 +933,7 @@ _20 November_
 
 ![alt text](/assets/soloespresso2018-11-19.jpg "19 November")
 
-_19 November_
+_19 November_ Cheat: Avec un chat
 
 
 ![alt text](/assets/soloespresso2018-11-18.jpg "18 November")
@@ -963,7 +963,7 @@ _14 November_
 
 ![alt text](/assets/soloespresso2018-11-13.jpg "13 November")
 
-_13 November_
+_13 November_ Still hanging in there
 
 
 ![alt text](/assets/soloespresso2018-11-12.jpg "12 November")
@@ -993,17 +993,17 @@ _8 November_
 
 ![alt text](/assets/soloespresso2018-11-07.jpg "7 November")
 
-_7 November_ 
+_7 November_ Last bits of autumn
 
 
 ![alt text](/assets/soloespresso2018-11-06.jpg "6 November")
 
-_6 November_
+_6 November_ Second house on the right (or 3rd) (still go into the wrong one every day)
 
 
 ![alt text](/assets/soloespresso2018-11-05.jpg "5 November")
 
-_5 November_
+_5 November_ Dawn treating us kindly
 
 
 ![alt text](/assets/soloespresso2018-11-04.jpg "4 November")
@@ -1013,12 +1013,12 @@ _4 November_
 
 ![alt text](/assets/soloespresso2018-11-03.jpg "3 November")
 
-_3 November_
+_3 November_ fReE fAlAfEl
 
 
 ![alt text](/assets/soloespresso2018-11-02.jpg "2 November")
 
-_2 November_
+_2 November_ [Thank U Mum](https://www.youtube.com/watch?v=g4ljAIKel-4 "Thank U Mum")
 
 
 ![alt text](/assets/soloespresso2018-11-01.jpg "1 November")
@@ -1028,15 +1028,15 @@ _1 November_
 
 ![alt text](/assets/soloespresso2018-10-31.jpg "31 October")
 
-_31 October_ 
+_31 October_ L'or noir (Shell est erroné)
 
 ![alt text](/assets/soloespresso2018-10-30.jpg "30 October")
 
-_30 October_ 
+_30 October_ Don't remind this one that summer's over
 
 ![alt text](/assets/soloespresso2018-10-29.jpg "29 October")
 
-_29 October_ 
+_29 October_ Beautiful, cold autumn
 
 
 ![alt text](/assets/soloespresso2018-10-28.jpg "28 October")
@@ -1054,22 +1054,22 @@ _26 October_
 
 ![alt text](/assets/soloespresso2018-10-25.jpg "25 October")
 
-_25 October_
+_25 October_ Standing on the shoulders of giants
 
 
 ![alt text](/assets/soloespresso2018-10-24.jpg "24 October")
 
-_24 October_
+_24 October_ Woke up (too) early
 
 
 ![alt text](/assets/soloespresso2018-10-23.jpg "23 October")
 
-_23 October_
+_23 October_ Digital friendship
 
 
 ![alt text](/assets/soloespresso2018-10-22.jpg "22 October")
 
-_22 October_
+_22 October_ A last tea & coffee
 
 
 ![alt text](/assets/soloespresso2018-10-21.jpg "21 October")
@@ -1079,7 +1079,7 @@ _21 October_
 
 ![alt text](/assets/soloespresso2018-10-20.jpg "20 October")
 
-_20 October_
+_20 October_ Damn power lines
 
 
 ![alt text](/assets/soloespresso2018-10-19.jpg "19 October")
@@ -1089,27 +1089,38 @@ _19 October_
 
 ![alt text](/assets/soloespresso2018-10-18.jpg "18 October")
 
-_18 October_
+_18 October_ Cheat
+``` SARAH H. PEARSON AND GEROULD R McWANE
 
+					OF
+
+	           MILAN, OHIO
+ 
+    MET HERE NOV 1929 AND WERE MARRIED AUG 1934
+
+     	  PRESENTED BY THEIR SONS
+
+	COL. PEARSON D. McWANE AND DR. JOHN W. McWANE
+```
 
 ![alt text](/assets/soloespresso2018-10-17.jpg "17 October")
 
-_17 October_ 
+_17 October_ Arthur's Seat
 
 
 ![alt text](/assets/soloespresso2018-10-16.jpg "16 October")
 
-_16 October_
+_16 October_ Back in the Pentland Hills
 
 
 ![alt text](/assets/soloespresso2018-10-15.jpg "15 October")
 
-_15 October_
+_15 October_ Early mornings
 
 
 ![alt text](/assets/soloespresso2018-10-14.jpg "14 October")
 
-_14 October_
+_14 October_ Glasgow
 
 
 ![alt text](/assets/soloespresso2018-10-13.jpg "13 October")
@@ -1134,7 +1145,7 @@ _10 October_
 
 ![alt text](/assets/soloespresso2018-10-09.jpg "9 October")
 
-_9 October_
+_9 October_ [Bed-time reading](https://www.ipcc.ch/sr15/ "IPCC 1.5 degrees report")
 
 
 ![alt text](/assets/soloespresso2018-10-08.jpg "8 October")
@@ -1149,7 +1160,7 @@ _7 October_
 
 ![alt text](/assets/soloespresso2018-10-06.jpg "6 October")
 
-_6 October_
+_6 October_ Shower views
 
 
 ![alt text](/assets/soloespresso2018-10-05.jpg "5 October")
@@ -1159,7 +1170,7 @@ _5 October_
 
 ![alt text](/assets/soloespresso2018-10-04.jpg "4 October")
 
-_4 October_
+_4 October_ Happy world animal day
 
 
 ![alt text](/assets/soloespresso2018-10-03.jpg "3 October")
@@ -1174,16 +1185,16 @@ _2 October_
 
 ![alt text](/assets/soloespresso2018-10-01.jpg "1 October")
 
-_1 October_
+_1 October_ [Liberal Arts student 101](https://www.bartleby.com/145/ww133.html "Wordsworth: Expostulation and reply")
 
 
 ![alt text](/assets/soloespresso2018-09-30.jpg "30 September")
 
-_30 September_ 
+_30 September_ Happy to meet Autumn again, after having missed out on my favourite season last year
 
 ![alt text](/assets/soloespresso2018-09-29.jpg "29 September")
 
-_29 September_ 
+_29 September_ Wandered around before boogie-ing until I ripped my pants
 
 
 ![alt text](/assets/soloespresso2018-09-28.jpg "28 September")
@@ -1192,7 +1203,7 @@ _28 September_
 
 ![alt text](/assets/soloespresso2018-09-27.jpg "27 September")
 
-_27 September_ 
+_27 September_ Another view from ~~home~~ the library
 
 ![alt text](/assets/soloespresso2018-09-26.jpg "26 September")
 
@@ -1201,7 +1212,7 @@ _26 September_
 
 ![alt text](/assets/soloespresso2018-09-25.jpg "25 September")
 
-_25 September_
+_25 September_ Cheat-looking back on the path I took through the Pentland hills last Saturday
 
 
 ![alt text](/assets/soloespresso2018-09-24.jpg "24 September")
@@ -1211,12 +1222,12 @@ _24 September_
 
 ![alt text](/assets/soloespresso2018-09-23.jpg "23 September")
 
-_23 September_
+_23 September_ Taking in the first autumn rays
 
 
 ![alt text](/assets/soloespresso2018-09-22.jpg "22 September")
 
-_22 September_
+_22 September_ Remember to look back every so often
 
 
 ![alt text](/assets/soloespresso2018-09-21.jpg "21 September")
@@ -1226,7 +1237,7 @@ _21 September_
 
 ![alt text](/assets/soloespresso2018-09-20.jpg "20 September")
 
-_20 September_
+_20 September_ Doggo had to wait too long for their extra-large americano
 
 
 ![alt text](/assets/soloespresso2018-09-19.jpg "19 September")
@@ -1236,7 +1247,7 @@ _19 September_
 
 ![alt text](/assets/soloespresso2018-09-18.jpg "18 September")
 
-_18 September_
+_18 September_ Pillow-view
 
 
 ![alt text](/assets/soloespresso2018-09-17.jpg "17 September")
@@ -1251,12 +1262,12 @@ _16 September_
 
 ![alt text](/assets/soloespresso2018-09-15.jpg "15 September")
 
-_15 September_
+_15 September_ Cheat: [printi.me](www.printi.me "www.printi.me") (avec le Fons)
 
 
 ![alt text](/assets/soloespresso2018-09-14.jpg "14 September")
 
-_14 September_
+_14 September_ My memory of this party is about as blurry as the picture
 
 
 ![alt text](/assets/soloespresso2018-09-13.jpg "13 September")
@@ -1271,22 +1282,22 @@ _12 September_
 
 ![alt text](/assets/soloespresso2018-09-11.jpg "11 September")
 
-_11 September_
+_11 September_ Carré 2.0: Nicer hall, duller speeches
 
 
 ![alt text](/assets/soloespresso2018-09-10.jpg "10 September")
 
-_10 September_
+_10 September_ boatsboatsboats
 
 
 ![alt text](/assets/soloespresso2018-09-09.jpg "9 September")
 
-_9 September_
+_9 September_ A view from a room, again
 
 
 ![alt text](/assets/soloespresso2018-09-08.jpg "8 September")
 
-_8 September_
+_8 September_ Cheat—drank a bit too much yesterday and forgot to take a picture today. Also, I will try to make this the last picture of our citronella plant
 
 
 ![alt text](/assets/soloespresso2018-09-07.jpg "7 September")
@@ -1316,12 +1327,12 @@ _3 September_
 
 ![alt text](/assets/soloespresso2018-09-02.jpg "2 September")
 
-_2 September_
+_2 September_ View from a room
 
 
 ![alt text](/assets/soloespresso2018-09-01.jpg "1 September")
 
-_1 September_
+_1 September_ New country, same love of flowers
 
 ![alt text](/assets/soloespresso2018-08-31.jpg "31 August")
 
@@ -1333,20 +1344,20 @@ _30 August_
 
 ![alt text](/assets/soloespresso2018-08-29.jpg "29 August")
 
-_29 August_ 
-
+_29 August_ Sailing from the rain into the golden rays of the promised land
+ 
 
 ![alt text](/assets/soloespresso2018-08-28.jpg "28 August")
 
-_28 August_ 
+_28 August_ à bientôt Science Park
 
 ![alt text](/assets/soloespresso2018-08-27.jpg "27 August")
 
-_27 August_ 
+_27 August_ Cheat-in the library with oma a few days ago
 
 ![alt text](/assets/soloespresso2018-08-26.jpg "26 August")
 
-_26 August_
+_26 August_ Just because it doesn’t look as toxic, doesn’t mean it won’t fuck you up
 
 
 ![alt text](/assets/soloespresso2018-08-25.jpg "25 August")
@@ -1356,7 +1367,7 @@ _25 August_
 
 ![alt text](/assets/soloespresso2018-08-24.jpg "24 August")
 
-_24 August_
+_24 August_ Rainy days
 
 
 ![alt text](/assets/soloespresso2018-08-23.jpg "23 August")
@@ -1411,7 +1422,7 @@ _14 August_
 
 ![alt text](/assets/soloespresso2018-08-13.jpg "13 August")
 
-_13 August_
+_13 August_ Cheat-thinking about Venezia
 
 
 ![alt text](/assets/soloespresso2018-08-12.jpg "12 August")
@@ -1421,7 +1432,7 @@ _12 August_
 
 ![alt text](/assets/soloespresso2018-08-11.jpg "11 August")
 
-_11 August_
+_11 August_ Home again
 
 
 ![alt text](/assets/soloespresso2018-08-10.jpg "10 August")
@@ -1431,7 +1442,7 @@ _10 August_
 
 ![alt text](/assets/soloespresso2018-08-09.jpg "9 August")
 
-_9 August_
+_9 August_ Cheat from yesterday
 
 
 ![alt text](/assets/soloespresso2018-08-08.jpg "8 August")
@@ -1451,7 +1462,7 @@ _6 August_
 
 ![alt text](/assets/soloespresso2018-08-05.jpg "5 August")
 
-_5 August_
+_5 August_ Finally, the sea
 
 
 ![alt text](/assets/soloespresso2018-08-04.jpg "4 August")
@@ -1479,7 +1490,7 @@ _31 July_
 
 ![alt text](/assets/soloespresso2018-07-30.jpg "30 July")
 
-_30 July_ 
+_30 July_ Hoping that the route does not go over that mountain
 
 ![alt text](/assets/soloespresso2018-07-29.jpg "29 July")
 
@@ -1496,7 +1507,7 @@ _27 July_
 
 ![alt text](/assets/soloespresso2018-07-26.jpg "26 July")
 
-_26 July_
+_26 July_ Had lunch with Andreas Zelinka, but he ignored me the whole time
 
 
 ![alt text](/assets/soloespresso2018-07-25.jpg "25 July")
@@ -1511,32 +1522,32 @@ _24 July_
 
 ![alt text](/assets/soloespresso2018-07-23.jpg "23 July")
 
-_23 July_
+_23 July_ Praha
 
 
 ![alt text](/assets/soloespresso2018-07-22.jpg "22 July")
 
-_22 July_
+_22 July_ Found a cycling walhalla
 
 
 ![alt text](/assets/soloespresso2018-07-21.jpg "21 July")
 
-_21 July_
+_21 July_ At Penzion Laura (50°02'28.47 N 13°17'13.65 E)
 
 
 ![alt text](/assets/soloespresso2018-07-20.jpg "20 July")
 
-_20 July_
+_20 July_ Finally in Czech!
 
 
 ![alt text](/assets/soloespresso2018-07-19.jpg "19 July")
 
-_19 July_
+_19 July_ View from a room
 
 
 ![alt text](/assets/soloespresso2018-07-18.jpg "18 July")
 
-_18 July_
+_18 July_ If Windows XP had been made in Bayern, this would have been the background photo
 
 
 ![alt text](/assets/soloespresso2018-07-17.jpg "17 July")
@@ -1571,12 +1582,12 @@ _12 July_
 
 ![alt text](/assets/soloespresso2018-07-11.jpg "11 July")
 
-_11 July_
+_11 July_ Last moments in 1380
 
 
 ![alt text](/assets/soloespresso2018-07-10.jpg "10 July")
 
-_10 July_
+_10 July_ How much stuff can you carry on a bike?
 
 
 ![alt text](/assets/soloespresso2018-07-09.jpg "9 July")
@@ -1586,12 +1597,12 @@ _9 July_
 
 ![alt text](/assets/soloespresso2018-07-08.jpg "8 July")
 
-_8 July_
+_8 July_ Camping in my room
 
 
 ![alt text](/assets/soloespresso2018-07-07.jpg "7 July")
 
-_7 July_ 
+_7 July_ Heyaa
 
 
 ![alt text](/assets/soloespresso2018-07-06.jpg "6 July")
@@ -1611,12 +1622,12 @@ _4 July_
 
 ![alt text](/assets/soloespresso2018-07-03.jpg "3 July")
 
-_3 July_
+_3 July_ A third type of cheat-I didn't do these dishes (kuddos to Dara, sure about that this time)
 
 
 ![alt text](/assets/soloespresso2018-07-02.jpg "2 July")
 
-_2 July_
+_2 July_ A different cheat-I didn't take this picutre (or at least don't remember it) (kuddos to Layla) (I think)
 
 
 ![alt text](/assets/soloespresso2018-07-01.jpg "1 July")
@@ -1629,16 +1640,16 @@ _30 June_
 
 ![alt text](/assets/soloespresso2018-06-29.jpg "29 June")
 
-_29 June_ 
+_29 June_ Liberté
 
 
 ![alt text](/assets/soloespresso2018-06-28.jpg "28 June")
 
-_28 June_ 
+_28 June_ À jamais
 
 ![alt text](/assets/soloespresso2018-06-27.jpg "27 June")
 
-_27 June_ 
+_27 June_ Another cheat
 
 ![alt text](/assets/soloespresso2018-06-26.jpg "26 June")
 
@@ -1647,7 +1658,7 @@ _26 June_
 
 ![alt text](/assets/soloespresso2018-06-25.jpg "25 June")
 
-_25 June_
+_25 June_ Take care of my babies
 
 
 ![alt text](/assets/soloespresso2018-06-24.jpg "24 June")
@@ -1687,12 +1698,12 @@ _18 June_
 
 ![alt text](/assets/soloespresso2018-06-17.jpg "17 June")
 
-_17 June_ 
+_17 June_ The view from a hangover
 
 
 ![alt text](/assets/soloespresso2018-06-16.jpg "16 June")
 
-_16 June_
+_16 June_ Anticipation
 
 
 ![alt text](/assets/soloespresso2018-06-15.jpg "15 June")
@@ -1702,7 +1713,7 @@ _15 June_
 
 ![alt text](/assets/soloespresso2018-06-14.jpg "14 June")
 
-_14 June_
+_14 June_ First cheat-all today's pictures had faces in it
 
 
 ![alt text](/assets/soloespresso2018-06-13.jpg "13 June")
@@ -1712,17 +1723,17 @@ _13 June_
 
 ![alt text](/assets/soloespresso2018-06-12.jpg "12 June")
 
-_12 June_
+_12 June_ View from a room3
 
 
 ![alt text](/assets/soloespresso2018-06-11.jpg "11 June")
 
-_11 June_
+_11 June_ Let's not use this plant to make tea
 
 
 ![alt text](/assets/soloespresso2018-06-10.jpg "10 June")
 
-_10 June_
+_10 June_ Years ago I decided this was home
 
 
 ![alt text](/assets/soloespresso2018-06-09.jpg "9 June")
@@ -1742,7 +1753,7 @@ _7 June_
 
 ![alt text](/assets/soloespresso2018-06-06.jpg "6 June")
 
-_6 June_
+_6 June_ Tying up last loose ends
 
 
 ![alt text](/assets/soloespresso2018-06-05.jpg "5 June")
@@ -1762,12 +1773,12 @@ _3 June_
 
 ![alt text](/assets/soloespresso2018-06-02.jpg "2 June")
 
-_2 June_
+_2 June_ Spot the twat
 
 
 ![alt text](/assets/soloespresso2018-06-01.jpg "1 June")
 
-_1 June_
+_1 June_ Last day
 
 ![alt text](/assets/soloespresso2018-05-31.jpg "31 May")
 
@@ -1775,7 +1786,7 @@ _31 May_
 
 ![alt text](/assets/soloespresso2018-05-30.jpg "30 May")
 
-_30 May_ 
+_30 May_ Outdoor solar cell performance: improving a diffuseness measurement tool
 
 ![alt text](/assets/soloespresso2018-05-29.jpg "29 May")
 
@@ -1784,7 +1795,7 @@ _29 May_
 
 ![alt text](/assets/soloespresso2018-05-28.jpg "28 May")
 
-_28 May_ 
+_28 May_ Edinburgh
 
 ![alt text](/assets/soloespresso2018-05-27.jpg "27 May")
 
@@ -1812,12 +1823,155 @@ _23 May_
 
 ![alt text](/assets/soloespresso2018-05-22.jpg "22 May")
 
-_22 May_
+_22 May_ New day, new flower
 
 
 ![alt text](/assets/soloespresso2018-05-21.jpg "21 May")
 
-_21 May_
+_21 May_ My favourity photo frame in Amstie
+
+![alt text](/assets/soloespresso2018-05-20.jpg "20 May")
+
+_20 May_
 
 
+![alt text](/assets/soloespresso2018-05-19.jpg "19 May")
+
+_19 May_ Appie doggo made my day
+
+
+![alt text](/assets/soloespresso2018-05-18.jpg "18 May")
+
+_18 May_ Pre-film nostalgia
+
+
+![alt text](/assets/soloespresso2018-05-17.jpg "17 May")
+
+_17 May_ 
+
+
+![alt text](/assets/soloespresso2018-05-16.jpg "16 May")
+
+_16 May_ that's iced tea not liquor I promise
+
+
+![alt text](/assets/soloespresso2018-05-15.jpg "15 May")
+
+_15 May_
+
+
+![alt text](/assets/soloespresso2018-05-14.jpg "14 May")
+
+_14 May_ the cat becomes quite creepy if you stare at it for a while
+
+
+![alt text](/assets/soloespresso2018-05-13.jpg "13 May")
+
+_13 May_
+
+
+![alt text](/assets/soloespresso2018-05-12.jpg "12 May")
+
+_12 May_ @guardian sponsor me
+
+
+![alt text](/assets/soloespresso2018-05-11.jpg "11 May")
+
+_11 May_
+
+
+![alt text](/assets/soloespresso2018-05-10.jpg "10 May")
+
+_10 May_ the other day, a news paper suggested replacing the Earth by a football
+
+
+![alt text](/assets/soloespresso2018-05-09.jpg "9 May")
+
+_9 May_
+
+
+![alt text](/assets/soloespresso2018-05-08.jpg "8 May")
+
+_8 May_
+
+
+![alt text](/assets/soloespresso2018-05-07.jpg "7 May")
+
+_7 May_ 
+
+
+![alt text](/assets/soloespresso2018-05-06.jpg "6 May")
+
+_6 May_ "thesis writing" day 91
+
+
+![alt text](/assets/soloespresso2018-05-05.jpg "5 May")
+
+_5 May_
+
+
+![alt text](/assets/soloespresso2018-05-04.jpg "4 May")
+
+_4 May_
+
+
+![alt text](/assets/soloespresso2018-05-03.jpg "3 May")
+
+_3 May_
+
+
+![alt text](/assets/soloespresso2018-05-02.jpg "2 May")
+
+_2 May_
+
+
+![alt text](/assets/soloespresso2018-05-01.jpg "1 May")
+
+_1 May_
+
+![alt text](/assets/soloespresso2018-04-30.jpg "30 April")
+
+_30 April_ 
+
+![alt text](/assets/soloespresso2018-04-29.jpg "29 April")
+
+_29 April_ 
+
+
+![alt text](/assets/soloespresso2018-04-28.jpg "28 April")
+
+_28 April_ 
+
+![alt text](/assets/soloespresso2018-04-27.jpg "27 April")
+
+_27 April_ 
+
+![alt text](/assets/soloespresso2018-04-26.jpg "26 April")
+
+_26 April_
+
+
+![alt text](/assets/soloespresso2018-04-25.jpg "25 April")
+
+_25 April_
+
+
+![alt text](/assets/soloespresso2018-04-24.jpg "24 April")
+
+_24 April_ blurry because of the sugar rush
+
+
+![alt text](/assets/soloespresso2018-04-23.jpg "23 April")
+
+_23 April_
+
+
+![alt text](/assets/soloespresso2018-04-22.jpg "22 April")
+
+_22 April_
+
+
+![alt text](/assets/soloespresso2018-04-21.jpg "21 April")
+
+_21 April_
 
