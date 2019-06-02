@@ -35,33 +35,26 @@
 
 import os
 from datetime import datetime
+from shutil import copyfile
+import random
 
-os.chdir(r"C:\\Users\\Merlijn Kersten\\Pictures\\Photos\\soloespresso\\AutomaticResizingAttempt") #Sets directory
+root_directory = r"C:\\Users\\Merlijn Kersten\\Pictures\\Backgrounds"
+os.chdir(root_directory) #Sets directory
 
-i = 2 #REQUIRES FILES TO BE NAMED CONSECUTIVELY 
-old_path = str(i) + ".jpg"
-
-while os.path.isfile(old_path) == True:
-    a = os.path.getctime(old_path) #creation date (computer)
-    b = datetime.fromtimestamp(a).strftime('%Y-%m-%d') #creation date (human-readable)
-    c = "soloespresso" + b +".jpg" #correct filename
-    new_path = os.path.join("Renamed", c)
-    if os.path.isfile(new_path) != True:
-        os.rename(old_path, new_path)
-        d = "Image #" + str(i) + " is now: " + c  
-        print(d)
-    else:
-        new_c = "attention_needed_" + c
-        new_path = os.path.join("Renamed", new_c)
-        os.rename(old_path, new_path)
-        d = "Attention need for file" + c
-        print(d)
-    i += 1
-    old_path = str(i) + ".jpg"
-
-print("Stoped at image: " + str(i) + ".jpg")
-
-
-import os
-rootdir = 'C:/Users/sid/Desktop/test'
-
+for subdir, dirs, files in os.walk(root_directory):
+    for file in files:
+        old_path = file
+        a = os.path.getctime(old_path) #creation date (computer)
+        b = datetime.fromtimestamp(a).strftime('%Y-%m-%d') #creation date (human-readable)
+        c = "Background" + b +".jpg" #correct filename
+        new_path = os.path.join("C:\\", "Users", "Merlijn Kersten", "Pictures", "Backgrounds Renamed", c)
+        if os.path.isfile(new_path) != True:
+            copyfile(old_path, new_path)
+            d = "Image #" + file + " is now: " + c  
+            print(d)
+        else:
+            new_c = "attention_needed_" + str(random.randint(1,100000)) + "_" + c 
+            new_path = os.path.join("C:\\", "Users", "Merlijn Kersten", "Pictures", "Backgrounds Renamed", new_c)
+            copyfile(old_path, new_path)
+            d = "Attention need for file" + c
+            print(d)
