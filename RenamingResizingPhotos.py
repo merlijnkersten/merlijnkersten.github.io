@@ -1,5 +1,5 @@
 ################################################## 
-# AUTOMATED RE-NAMING OF PHOTOS                  #  
+# AUTOMATED RE-NAMING AND RESIZING OF PHOTOS     #  
 # Sunday, 2 June 2019                            #
 # Written using Python 3.7.2 on Windows 10 Pro   #
 #                                                #
@@ -10,7 +10,6 @@
 
 import os
 from datetime import datetime
-#from shutil import copyfile
 import random
 from PIL import Image
 
