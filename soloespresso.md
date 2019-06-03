@@ -8,7 +8,7 @@ A photo-a-day in Edinburgh
 
 ---
 
-![alt text](/assets/soloespresso2019-05-27.jpg "27 May")
+![alt text](/assets/soloespresso2019-05-27.jpg"27 May")
 
 _27 May_ Behind the scenes
 
@@ -1345,7 +1345,7 @@ _30 August_
 ![alt text](/assets/soloespresso2018-08-29.jpg "29 August")
 
 _29 August_ Sailing from the rain into the golden rays of the promised land
- 
+
 
 ![alt text](/assets/soloespresso2018-08-28.jpg "28 August")
 
