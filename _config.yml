@@ -1,4 +1,13 @@
 name: merlijn Kersten
-theme: jekyll-theme-slate
 title: Hello!
-description: Have a nice day 
+description: Have a nice day
+email: kerstenmerlijn@gmail.com
+baseurl: ""
+url: merlijnkersten.github.io 
+github_username:  jekyll
+markdown: kramdown
+theme: minima
+plugins:
+- jekyll-feed
+
+
