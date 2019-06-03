@@ -1,6 +1,9 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+## I'm trying to build a website.
+There are probably loads of mistakes. If you spot one: [kerstenmerlijn@gmail.com](mailto:kerstenmerlijn@gmail.com "kerstenmerlijn@gmail.com").
 
-layout: home
----
+![alt text](/assets/image1.jpg "First image!")
+
++ [printi.me/mango](https://www.printi.me/mango "printi.me/mango"),
++ [soloespresso](https://www.soloespresso.tumblr.com "soloespresso") or [soloespresso](https://merlijnkersten.github.io/soloespresso "soloespresso"),
++ [nerdonanisland](https://www.nerdonanisland.tumblr.com "nerdonanisland") or _coming soon_,
++ [instagram](https://www.instagram.com/merlinmcmxcvii/ "instagram"),
