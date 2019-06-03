@@ -14,3 +14,6 @@ A photo-a-day project that started in April 2018 and continues to date. Files ar
 ## Technical deedz
 * Background colour: ` #0F0F0F`; text colour: ` #F5F5F5`,
 * Original blog was on [soloespresso.tumblr.com](https://soloespresso.tumblr.com "soloespresso.tumblr.com"),
+
+# Nerdonanisland
+Similar to Soloespresso, a photo-a-day project from Autumn 2017 (no longer updated). Used to live on [nerdonanisland.tumblr.com](https://nerodonanisland.tumblr.com "nerdonanisland.tumblr.com),
