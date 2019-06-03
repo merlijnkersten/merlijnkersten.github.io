@@ -12,5 +12,5 @@ A photo-a-day project that started in April 2018 and continues to date. Files ar
 5. Update 'soloespresso.html' files with photo tags, date and text caption,
   
 ## Technical deedz
-* Background colour: `#0F0F0F`; text colour: `#F5F5F5`,
+* Background colour: ` #0F0F0F`; text colour: ` #F5F5F5`,
 * Original blog was on [soloespresso.tumblr.com](https://soloespresso.tumblr.com "soloespresso.tumblr.com"),
