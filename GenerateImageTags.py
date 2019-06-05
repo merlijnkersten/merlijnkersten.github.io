@@ -9,18 +9,23 @@
 # Note: MM en DD in file name need to be double digit.
 
 # Issues: there are no (non-error) safeguards for wrong inputs!
- 
+
+# Import timer to evaluate run time
+from timeit import default_timer as timer
+
 # Change directory to Desktop.
 import os
 os.chdir(r"C:\\Users\\Merlijn Kersten\\Desktop")
 
 # Ask for which dates (inclusive) tags need to be generated.
 print(" ")
-print("HTML IMAGE TAG GENERATOR")
+print("HTML IMAGE-TAG GENERATOR")
 print("")
 print(        "                         YYYY-MM-DD")
 start = input("Start date (YYYY-MM-DD)? ")
 end = input("End date (YYYY-MM-DD?    ")
+
+programme_start_time = timer()
 
 # Seperate dates into years/months/days and turn into strings.
 start_year = int(start[0:4])
@@ -77,9 +82,13 @@ while ((current_year == end_year and current_month == end_month) and current_day
 
 # Close the text file. Print statements that it is ready.
 html_text_file.close()
+
+programme_end_time = timer()
+
 print(" ")
 print("File should be on your deskptop.")
 print("Captions, if any, should be added manually.")
+print("(Run time: %g seconds)" % (round(programme_end_time - programme_start_time, 4)))
 print(" ")
 
 
