@@ -1,9 +1,9 @@
 # About
 Asdf
 
-# Soloespresso
+# soloespresso
 A photo-a-day project started in April 2018; updated regularly.
 
-# Nerdonanisland
+# nerdonanisland
 A photo-a-day project from Autumn 2017.
 
