@@ -2,6 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
 
 /* page layout: off-white background, centred */
 body {
@@ -41,6 +42,14 @@ p {
     color: #0F0F0F;
     font-family:'Open Sans', 'Arial', 'Sans-Serif';
 }
+
+p {
+    font-size: 0.8em;
+    line-height: 1em;
+    color: #4A4A4A;
+    font-family:'Inconsolata', 'Courier', 'Sans-Serif';
+}
+
 
 /* images */
 img {
