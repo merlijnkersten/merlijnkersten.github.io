@@ -1,5 +1,9 @@
+/* Based on: http://jmcglone.com/guides/github-pages/ */
+
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+/* page layout: off-white background, centred */
 body {
     margin: auto auto;
     max-width: 600px;
@@ -29,6 +33,7 @@ h1 {
     font-size: 2em;
     font-family:'Pacifico', 'Sans-Serif';
     color: #0F0F0F;
+    text-align: center
 }
 p {
     font-size: 1em;
@@ -37,7 +42,18 @@ p {
     font-family:'Open Sans', 'Arial', 'Sans-Serif';
 }
 
+/* images */
 img {
   max-width: 100%;
   height: auto;
+}
+
+/* horizontal lines */
+hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 1px solid #0F0F0F;
+    margin: 1em 0;
+    padding: 0;
 }
