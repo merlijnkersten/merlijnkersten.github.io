@@ -1,6 +1,7 @@
 /* Based on: http://jmcglone.com/guides/github-pages/ */
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Lato');
 
 body {
     margin: 60px auto;
@@ -27,7 +28,13 @@ a:hover {
 }
 h1 {
     font-size: 2em;
-    font-family:'Open Sans', 'Arial', 'Sans-Serif';
+    font-family:'Lato', 'Arial', 'Sans-Serif';
+    color: #0F0F0F;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-family:'Lato', 'Arial', 'Sans-Serif';
     color: #0F0F0F;
 }
 p {
