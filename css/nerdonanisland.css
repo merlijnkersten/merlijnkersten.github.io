@@ -17,7 +17,7 @@ nav ul {
     font-weight: normal;
     color: #0F0F0F;
 }
-nav ul li 
+nav ul li {
     display: inline;
     margin-right: 20px;
 }
