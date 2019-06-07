@@ -1,0 +1,64 @@
+/* Based on: http://jmcglone.com/guides/github-pages/ */
+
+/* page layout: off-white background, centred */
+body {
+    margin: auto auto;
+    max-width: 600px;
+    background-color: #0F0F0F;
+}
+/* navigator layout (header */
+nav ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: normal;
+    color: #F5F5F5;
+}
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+/* link layout */
+a {
+    text-decoration: none;
+    color: #B3C5D9;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 1em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #F5F5F5;
+    text-align: center
+}
+p {
+    font-size: 1em;
+    line-height: 1.2em;
+    color: #F5F5F5;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+pre {
+    font-size: 0.8em;
+    line-height: 1.2em;
+    color: #D8D8D8;
+    font-family:'Inconsolata', 'Courier', 'Sans-Serif';
+}
+
+
+/* images */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* horizontal lines */
+hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 1px solid #F5F5F5;
+    margin: 1em 0;
+    padding: 0;
+}
