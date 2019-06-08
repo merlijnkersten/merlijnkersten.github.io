@@ -36,9 +36,9 @@ end_year = int(end[0:4])
 end_month = int(end[5:7])
 end_day = int(end[8:])
 
-current_year = int(start_year)
-current_month = int(start_month)
-current_day = int(start_day)
+current_year = int(end_year)
+current_month = int(end_month)
+current_day = int(end_day)
 
 # Turn single diggit days and months into double digits: 5 --> '05' (needed for filename).
 def double_Digits(number):
@@ -56,29 +56,29 @@ month_names = {1:'January', 2:'February', 3:'March', 4:'April', 5:'May', 6:'June
 html_text_file = open("htmltext.txt", "w+")
 
 # While the current date is not after the end date, create an image tag for that date. 
-while ((current_year == end_year and current_month == end_month) and current_day > end_day) == False:
+while ((current_year == start_year and current_month == start_month) and current_day < start_day) == False:
     # Special case: when the current year is a leap-year, set the month-length for February to the correct number of days, 29. Else is there to reset to 28 just in case.
     if current_year%4 == 0: 
         month_lengths[2] = 29
     else:
         month_lengths[2] = 28
     # HTML tags. Line breaks are for (human) readability.
-    html_text_file.write('<p><img src="/assets/soloespresso' + str(current_year) + '-' +  double_Digits(current_month) + '-' + double_Digits(current_day) + '.jpg" alt="'+ str(current_day) + " " + month_names[current_month] +'" /></p>' + '\n'),
-    html_text_file.write("<p><em> " + str(current_day) + " " + month_names[current_month] +  " </em> </p>" + '\n'),
-    html_text_file.write('\n'),
+    html_text_file.write('			<p><img src="/assets/soloespresso' + str(current_year) + '-' +  double_Digits(current_month) + '-' + double_Digits(current_day) + '.jpg" alt="'+ str(current_day) + " " + month_names[current_month] +'" /></p>' + '\n'),
+    html_text_file.write("			<p><em> " + str(current_day) + " " + month_names[current_month] +  " </em> </p>" + '\n'),
+    html_text_file.write('			\n'),
     
     # If the end of the year is reached, change current date to the first day of the next year (YYYY-31-12 --> YYYY+1-01-01). 
-    if current_day == month_lengths[current_month] and current_month == 12:
-        current_month = 1
-        current_day = 1
-        current_year += 1
+    if current_day == 1 and current_month == 1:
+        current_month = 12
+        current_day = 31
+        current_year -= 1
     # If the end of the month is reached, change current date to the first day of the next month (YYYY-MM-31 --> YYYY-MM+1-01).
-    elif current_day == month_lengths[current_month]:
-        current_month += 1
-        current_day = 1
+    elif current_day == 1:
+        current_month -= 1
+        current_day = month_lengths[current_month]
     # Else change to the next day.
     else:
-        current_day += 1
+        current_day -= 1
 
 # Close the text file. Print statements that it is ready.
 html_text_file.close()
