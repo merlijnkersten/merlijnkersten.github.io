@@ -3,6 +3,22 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Lato');
 
+/* For mobile and table users */
+@media only screen and (max-width: 800px) {
+  body {
+    max-width: 100%;
+    background-color: #F5F8F9;
+  }
+}
+/* For desktop users */
+@media only screen and (min-width: 800px) {
+  body {
+    margin: 60px auto;
+    width: 70%;
+    background-color: #F5F8F9;
+  }
+}
+
 body {
     margin: 60px auto;
     width: 70%;
