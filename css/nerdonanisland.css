@@ -19,7 +19,7 @@
     list-style: none;
     font-weight: normal;
     color: #0F0F0F;
-    font-size: 1.6em
+    font-size: 2em
   }
   nav ul li {
     display: inline;
@@ -41,13 +41,13 @@
   }
   p {
     font-size: 2em;
-    line-height: 2.4em;
+    line-height: 1.4em;
     color: #0F0F0F;
     font-family:'Open Sans', 'Arial', 'Sans-Serif';
   }
   pre {
     font-size: 1.6em;
-    line-height: 2.4em;
+    line-height: 1.4em;
     color: #4A4A4A;
     font-family:'Inconsolata', 'Courier', 'Sans-Serif';
   }
