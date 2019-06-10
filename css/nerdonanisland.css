@@ -8,7 +8,6 @@
 @media only screen and (max-width: 800px) {
   /* page layout: off-white background, centred */ 
   body {
-    margin: 5px 5px;
     max-width: 100%;
     background-color: #F5F5F5;
   }
@@ -19,7 +18,7 @@
     list-style: none;
     font-weight: normal;
     color: #0F0F0F;
-    font-size: 2em
+    font-size: 1.5em
   }
   nav ul li {
     display: inline;
@@ -40,14 +39,14 @@
     text-align: center;
   }
   p {
-    font-size: 2em;
-    line-height: 1.4em;
+    font-size: 1.5em;
+    line-height: 1.2em;
     color: #0F0F0F;
     font-family:'Open Sans', 'Arial', 'Sans-Serif';
   }
   pre {
-    font-size: 1.6em;
-    line-height: 1.4em;
+    font-size: 1em;
+    line-height: 1.1em;
     color: #4A4A4A;
     font-family:'Inconsolata', 'Courier', 'Sans-Serif';
   }
