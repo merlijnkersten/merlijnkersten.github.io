@@ -11,7 +11,7 @@ nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
-    font-weight: bold;
+    font-weight: normal;
     color: #F5F5F5;
 }
 nav ul li {
