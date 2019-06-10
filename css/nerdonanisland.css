@@ -5,8 +5,8 @@
 @import url('https://fonts.googleapis.com/css?family=Inconsolata');
 
 /* For mobile phones: */
-[class*="col-"] {
-  /* page layout: off-white background, centred */
+@media only screen and (max-width: 800px) {
+  /* page layout: off-white background, centred */ 
   body {
     margin: 5px 5px;
     max-width: 100%;
