@@ -17,7 +17,7 @@ import os
 from datetime import datetime
 import random
 
-root_directory = r"C:\\Users\\Merlijn Kersten\\Pictures\\soloespresso\\Renamed resized"
+root_directory = "C:/Users/Merlijn Kersten/Pictures/soloespresso/Renamed resized"
 os.chdir(root_directory)
 
 i = 0
