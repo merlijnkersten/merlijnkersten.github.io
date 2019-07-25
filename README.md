@@ -16,4 +16,4 @@ A photo-a-day project that started in April 2018 and continues to date. Files ar
 * Original blog was on [soloespresso.tumblr.com](https://soloespresso.tumblr.com "soloespresso.tumblr.com"),
 
 # Nerdonanisland
-Similar to Soloespresso, a photo-a-day project from Autumn 2017 (no longer updated). Used to live on [nerdonanisland.tumblr.com](https://nerodonanisland.tumblr.com "nerdonanisland.tumblr.com),
+Similar to Soloespresso, a photo-a-day project from Autumn 2017 (no longer updated). Used to live on [nerdonanisland.tumblr.com](https://nerodonanisland.tumblr.com "nerdonanisland.tumblr.com"),
