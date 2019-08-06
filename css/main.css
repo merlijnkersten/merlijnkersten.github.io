@@ -1,7 +1,7 @@
 /* Based on: http://jmcglone.com/guides/github-pages/ */
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
-@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Bitter');
 
 /* For mobile and table users */
 @media only screen and (max-width: 800px) {
@@ -37,7 +37,7 @@ a:hover {
 }
 h1 {
     font-size: 2em;
-    font-family:'Lato', 'Arial', 'Sans-Serif';
+    font-family:'Bitter', 'Arial', 'Sans-Serif';
     color: #2C2A27;
 }
 
