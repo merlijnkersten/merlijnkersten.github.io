@@ -70,3 +70,13 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+.clearfix {
+  overflow: auto;
+}
+
+.img2 {
+  max-width: 500px;
+  height: auto;
+  float: right;
+}
