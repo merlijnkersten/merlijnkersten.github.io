@@ -3,12 +3,10 @@
 @import url('https://fonts.googleapis.com/css?family=Bitter&display=swap')
 @import url('https://fonts.googleapis.com/css?family=Lato')
 
-/* For mobile and tablet users */
-@media only screen and (max-width: 800px) {
-  body {
+/* For mobile and tablet users (and old browsers) */
+body {
     max-width: 100%;
     background-color: #0F0F0F;
-  }
 }
 /* For deskptop users */
 @media only screen and (min-width: 800px) {
