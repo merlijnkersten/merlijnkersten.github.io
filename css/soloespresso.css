@@ -1,5 +1,8 @@
 /* Based on: http://jmcglone.com/guides/github-pages/ */
 
+@import url('https://fonts.googleapis.com/css?family=Bitter&display=swap')
+@import url('https://fonts.googleapis.com/css?family=Lato')
+
 /* For mobile and tablet users */
 @media only screen and (max-width: 800px) {
   /* page layout: off-white background, centred */ 
@@ -18,7 +21,7 @@
 }
 /* navigator layout (header */
 nav ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Lato', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: normal;
@@ -37,16 +40,19 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 1em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 2em;
+    line-height: 0.5em;
+    font-family:'Bitter', 'Arial', 'Sans-Serif';
     color: #F5F5F5;
-    text-align: left
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
 }
 p {
     font-size: 1em;
     line-height: 1.2em;
     color: #F5F5F5;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Lato', 'Arial', 'Sans-Serif';
 }
 
 pre {
@@ -61,6 +67,7 @@ pre {
 img {
   max-width: 100%;
   height: auto;
+  margin: 1.2em 0 -0.5em 0;
 }
 
 /* horizontal lines */
