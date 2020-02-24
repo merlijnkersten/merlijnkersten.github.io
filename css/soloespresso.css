@@ -8,8 +8,9 @@ body {
     max-width: 100%;
     background-color: #0F0F0F;
 }
+
 /* For deskptop users */
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 550px) {
   body {
     margin: auto auto;
     max-width: 550px;
