@@ -4,9 +4,11 @@
 @import url('https://fonts.googleapis.com/css?family=Lato')
 
 /* For mobile and tablet users (and old browsers) */
-body {
+@media screen and (min-width: 0px) and (max-width: 549px) {
+  body {
     max-width: 100%;
     background-color: #0F0F0F;
+  }
 }
 
 /* For deskptop users */
