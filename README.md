@@ -6,7 +6,7 @@ A photo-a-day project that started in April 2018 and continues to date. Files ar
 
 ## Uploading steps
 1. Edit and pick photos,
-2. Resize to 800px wide, rename to 'soloespressoYYYY-MM-DD<asdf>.jpg,
+2. Resize to 550px wide (800px prior to 22 March 2020), rename to 'soloespressoYYYY-MM-DD<asdf>.jpg,
 3. Run Python code (RenamingPhotos.py) to rename photos to 'soloespressoYYYY-MM-DD.jpg'
 4. Upload photos to /assets folder,
 5. Update 'soloespresso.html' files with photo tags, date and text caption,
