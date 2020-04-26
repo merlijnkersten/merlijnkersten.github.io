@@ -1,13 +1,17 @@
 /* Based on: http://jmcglone.com/guides/github-pages/ */
 
+body {
+  background-color: #0F0F0F;
+}
+
 @import url('https://fonts.googleapis.com/css?family=Bitter&display=swap')
 @import url('https://fonts.googleapis.com/css?family=Lato')
 
 /* For mobile and tablet users (and old browsers) */
-@media screen and (min-width: 0px) and (max-width: 549px) {
+
+@media only screen and (max-width: 549px) {
   body {
     max-width: 100%;
-    background-color: #0F0F0F;
   }
 }
 
@@ -16,7 +20,6 @@
   body {
     margin: auto auto;
     max-width: 550px;
-    background-color: #0F0F0F;
   }
 }
 /* navigator layout (header */
