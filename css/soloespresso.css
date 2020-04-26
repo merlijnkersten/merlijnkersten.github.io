@@ -1,11 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
 /* Based on: http://jmcglone.com/guides/github-pages/ */
 
 body {
   background-color: #0F0F0F;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Bitter&display=swap')
-@import url('https://fonts.googleapis.com/css?family=Lato')
+
 
 /* For mobile and tablet users (and old browsers) */
 
