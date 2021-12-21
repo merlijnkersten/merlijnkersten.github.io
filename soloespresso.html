@@ -100,51 +100,17 @@
 			<p><em> 28 November </em> </p>
 
 			<p><img id="startOrStopImg" src="/assets/soloespresso2021-11-27.jpg" alt="27 November, Click to play audio">
-			<audio id="audio" src="/assets/soloespresso2021-11-27.m4a" type="audio/m4a">
-	    Your browser does not support the audio element.</audio></p>
-			<p> M4A <em> 27 November </em> Adventures in the dark </p>
-			<pre> click on the image to hear the night </pre>
-
-			<!-- https://stackoverflow.com/questions/47754451/html-how-to-play-and-pause-audio-when-clicking-an-image -->
-
-			<script type="text/javascript">
-
-	      document.getElementById("startOrStopImg").onclick = function() {
-	          var audio = document.getElementById("audio");
-	          if (audio.paused) audio.play();
-	          else audio.pause();
-	      };
-	    </script>
-
-			<p><img id="startOrStopImg2" src="/assets/soloespresso2021-11-27.jpg" alt="27 November, Click to play audio">
-			<audio id="audio2" src="/assets/soloespresso2021-11-27.mp3" type="audio/mp3">
+			<audio id="audio" src="/assets/soloespresso2021-11-27.mp3" type="audio/mp3">
 			Your browser does not support the audio element.</audio></p>
-			<p> MP3 <em> 27 November </em> Adventures in the dark </p>
+			<p> <em> 27 November </em> Adventures in the dark </p>
 			<pre> click on the image to hear the night </pre>
 
 			<!-- https://stackoverflow.com/questions/47754451/html-how-to-play-and-pause-audio-when-clicking-an-image -->
 
 			<script type="text/javascript">
 
-				document.getElementById("startOrStopImg2").onclick = function() {
-						var audio = document.getElementById("audio2");
-						if (audio.paused) audio.play();
-						else audio.pause();
-				};
-			</script>
-
-			<p><img id="startOrStopImg3" src="/assets/soloespresso2021-11-27.jpg" alt="27 November, Click to play audio">
-			<audio id="audio3" src="/assets/soloespresso2021-11-27.mp3" type="audio/mp3" controls>
-			Your browser does not support the audio element.</audio></p>
-			<p> MP3 + Controls <em> 27 November </em> Adventures in the dark </p>
-			<pre> click on the image to hear the night </pre>
-
-			<!-- https://stackoverflow.com/questions/47754451/html-how-to-play-and-pause-audio-when-clicking-an-image -->
-
-			<script type="text/javascript">
-
-				document.getElementById("startOrStopImg3").onclick = function() {
-						var audio = document.getElementById("audio3");
+				document.getElementById("startOrStopImg").onclick = function() {
+						var audio = document.getElementById("audio");
 						if (audio.paused) audio.play();
 						else audio.pause();
 				};
