@@ -19,18 +19,18 @@
 		<div class="blurb">
 
 			<br>
-	
+
 			<hr/>
-	
+
 			<h1> SOLOESPRESSO </h1>
-			<p align="center"><em> A photo-a-day in London, Edinburgh and further afield.</em></p>
-	
+			<p align="center"><em> A photo-a-day in Berlin, London, Edinburgh, and further afield.</em></p>
+
 			<hr/>
 
             <img id="image" width=550px onclick="imageSequence();"/>
             <p> <em><span id="date">date</span></em> Click on the photo to see entries from this day last year and the year before!</p>
 
-            <script>  
+            <script>
 
             /* This function formats a given date as dd-mm-yyyy and subtracts the number 'years' from the year. */
             function formatDate(date, years) {
@@ -39,9 +39,9 @@
                     day = '' + d.getDate(),
                     year = (d.getFullYear() - years);
 
-                if (month.length < 2) 
+                if (month.length < 2)
                     month = '0' + month;
-                if (day.length < 2) 
+                if (day.length < 2)
                     day = '0' + day;
 
                 return [year, month, day].join('-');
@@ -52,7 +52,7 @@
             /*
             Used: https://stackoverflow.com/questions/39919038/javascript-changing-between-three-images-on-a-button-click, answer by https://stackoverflow.com/users/949476/dfsq
             */
-            
+
 
             /* First image uploaded on 22 April 2019, keep adding previous years as project continues */
             var images = [
@@ -64,15 +64,15 @@
             var num = 1
 
             /* This function cycles through the 'images' list by taking the modulo of the 'num' iterator divided by the length of the 'images' list.*/
-            function imageSequence() { 
+            function imageSequence() {
                 document.getElementById('image').src = images[num++ % images.length];
             }
 
             document.querySelector("#image").src = "https://raw.githubusercontent.com/merlijnkersten/merlijnkersten.github.io/master/assets/soloespresso" + formatDate(today, 1) + ".jpg";
-            
+
             /* Print the day's date below the picture in dd mmmm format. */
             var date = today.getDate() +' ' + today.toLocaleString('default', { month: 'long' })
-            
+
             document.querySelector("#date").innerText = date
 
             </script>
