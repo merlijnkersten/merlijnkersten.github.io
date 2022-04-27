@@ -4,16 +4,16 @@
 	<head>
 		<title>☕</title>
 		<link rel="stylesheet" type="text/css" href="/css/soloespresso.css">
-        <meta charset='utf-8'>
-        <link href='http://fonts.googleapis.com/css?family=Bitter&display=swap' rel='stylesheet' type='text/css'>
-        <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+		<meta charset='utf-8'>
+		<link href='http://fonts.googleapis.com/css?family=Bitter&display=swap' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
 	</head>
 	<body>
 		<nav>
-    		<ul>
-                <li><a href="/">home</a></li>
-        		<li><a href="/soloespresso">back to soloespresso</a></li>
-    		</ul>
+			<ul>
+				<li><a href="/">home</a></li>
+				<li><a href="/soloespresso">back to soloespresso</a></li>
+			</ul>
 		</nav>
 		<div class="container">
 		<div class="blurb">
@@ -27,57 +27,12 @@
 
 			<hr/>
 
-            <img id="image" width=550px onclick="imageSequence();"/>
-            <p> <em><span id="date">date</span></em> Click on the photo to see entries from this day last year and the year before!</p>
+			<img id="image" width=550px />
+			<p> <em><span id="date">date</span></em> Click on the photo to see entries from this day last year and the year before!</p>
 
-            <script>
+			<script src="./onthisday.js" type="module"></script>
 
-            /* This function formats a given date as dd-mm-yyyy and subtracts the number 'years' from the year. */
-            function formatDate(date, years) {
-                var d = new Date(date),
-                    month = '' + (d.getMonth() + 1),
-                    day = '' + d.getDate(),
-                    year = (d.getFullYear() - years);
-
-                if (month.length < 2)
-                    month = '0' + month;
-                if (day.length < 2)
-                    day = '0' + day;
-
-                return [year, month, day].join('-');
-            }
-
-            var today = new Date()
-
-            /*
-            Used: https://stackoverflow.com/questions/39919038/javascript-changing-between-three-images-on-a-button-click, answer by https://stackoverflow.com/users/949476/dfsq
-            */
-
-
-            /* First image uploaded on 22 April 2019, keep adding previous years as project continues */
-            var images = [
-                "https://raw.githubusercontent.com/merlijnkersten/merlijnkersten.github.io/master/assets/soloespresso" + formatDate(today, 1) + ".jpg",
-                "https://raw.githubusercontent.com/merlijnkersten/merlijnkersten.github.io/master/assets/soloespresso" + formatDate(today, 2) + ".jpg",
-                "https://raw.githubusercontent.com/merlijnkersten/merlijnkersten.github.io/master/assets/soloespresso" + formatDate(today, 3) + ".jpg"
-            ]
-
-            var num = 1
-
-            /* This function cycles through the 'images' list by taking the modulo of the 'num' iterator divided by the length of the 'images' list.*/
-            function imageSequence() {
-                document.getElementById('image').src = images[num++ % images.length];
-            }
-
-            document.querySelector("#image").src = "https://raw.githubusercontent.com/merlijnkersten/merlijnkersten.github.io/master/assets/soloespresso" + formatDate(today, 1) + ".jpg";
-
-            /* Print the day's date below the picture in dd mmmm format. */
-            var date = today.getDate() +' ' + today.toLocaleString('default', { month: 'long' })
-
-            document.querySelector("#date").innerText = date
-
-            </script>
-
-            </div>
-        </div>
-    </body>
+			</div>
+		</div>
+	</body>
 </html>
