@@ -12,17 +12,17 @@ Todo: currently only shows images, at least two entries were videos and one had 
 let today = new Date()
 
 function yearsSinceStart() {
-    // return the number of full years since the start of the project (22 April 2018).
+    // return the number of full years since the start of the project (21 April 2018).
     const currentYear = today.getFullYear()
 
-    const startNextYear = new Date(currentYear, 3, 22) // Every year on 22 April
+    const startNextYear = new Date(currentYear, 3, 21) // Every year on 21 April
 
     if (today < startNextYear) {
-        // currentDate is before 22 April
+        // currentDate is before 21 April
         return currentYear - 2018
     }
     else {
-        // currentDate is on or after 22 April
+        // currentDate is on or after 21 April
         return currentYear - 2018 + 1
     }
 }
@@ -70,7 +70,6 @@ let num = 0
 
 // This function cycles through the imageURLs array by taking the modulo of the num iterator divided by the length of the imageURLs array.
 function imageSequence() {
-    console.log(num)
     document.getElementById('image').src = imageURLs[num++ % imageURLs.length]
 }
 
@@ -83,4 +82,4 @@ let date = today.getDate() +' ' + today.toLocaleString('default', { month: 'long
 
 document.querySelector("#date").innerText = date
 
-console.log(imageURLs)
+console.log("thanks Fonsi")
