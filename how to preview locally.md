@@ -11,3 +11,6 @@ julia> LiveServer.serve()
 ```
 
 then open firefox/chrome and go to the URL printed in the terminal 🖨
+
+
+if you get a 404 error when you click on a link, you need to add `.html` at the end

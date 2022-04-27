@@ -1,7 +1,7 @@
 /* used: https://stackoverflow.com/questions/39919038/javascript-changing-between-three-images-on-a-button-click, answer by https://stackoverflow.com/users/949476/dfsq
 Goal: on clicking on image, cycle through the images of the previous years
 Steps: 
-    1) find how many full years have passes since the start of the project (22 April 2019),
+    1) find how many full years have passes since the start of the project (22 April 2018),
     2) create an array with the URLs to the image of each year of (for the current date),
     3) change the image URL and caption date in the HTML code.
 
@@ -12,18 +12,18 @@ Todo: currently only shows images, at least two entries were videos and one had 
 let today = new Date()
 
 function yearsSinceStart() {
-    // return the number of full years since the start of the project (22 April 2019).
+    // return the number of full years since the start of the project (22 April 2018).
     const currentYear = today.getFullYear()
 
     const startNextYear = new Date(currentYear, 3, 22) // Every year on 22 April
 
     if (today < startNextYear) {
         // currentDate is before 22 April
-        return currentYear - 2019
+        return currentYear - 2018
     }
     else {
         // currentDate is on or after 22 April
-        return currentYear - 2019 + 1
+        return currentYear - 2018 + 1
     }
 }
 
@@ -70,6 +70,7 @@ let num = 0
 
 // This function cycles through the imageURLs array by taking the modulo of the num iterator divided by the length of the imageURLs array.
 function imageSequence() {
+    console.log(num)
     document.getElementById('image').src = imageURLs[num++ % imageURLs.length]
 }
 
