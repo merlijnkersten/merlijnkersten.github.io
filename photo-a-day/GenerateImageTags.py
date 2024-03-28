@@ -1,98 +1,71 @@
-# GENERATE HTML IMAGE TAGS
-# June 2019
+"""
+March 2024
 
-# GOAL
-# Generate HTML image tags for nerdonanisland and soloespresso. They should look like:
-#
-#       <p><img src='/assets/soloespressoYYYY-MM-DD.jpg' alt='DD mmmmmm' /></p>
-#       <p><em>DD mmmmm</em> </p>
-# Note: MM en DD in file name need to be double digit.
+Steps:
 
-# Issues: there are no (non-error) safeguards for wrong inputs!
+Preparation: all new photos in Renamed resized folder, with the correct name.
 
-# Import timer to evaluate run time
-from timeit import default_timer as timer
+Find all images in the Renamed resized folder (in Pictures folder).
 
-# Change directory to Desktop.
+Sort these photos
+
+For all these photos
+
+    Find their height
+
+    Find their long date (dd month)
+
+    Write the html tags for the website to a file
+
+    Move the photos to the Assets folder (syncs to Github)
+
+Output: photos in the right folder and new text file (on Desktop) with HTML code
+
+"""
 import os
-os.chdir(r"C:\\Users\\Merlijn Kersten\\Desktop")
+from PIL import Image
 
-# Ask for which dates (inclusive) tags need to be generated.
-print(" ")
-print("HTML IMAGE-TAG GENERATOR")
-print("")
-print(        "                         YYYY-MM-DD")
-start = input("Start date (YYYY-MM-DD)? ")
-end = input("End date (YYYY-MM-DD?    ")
+input_directory = "C:/Users/Merlijn Kersten/Pictures/soloespresso/Renamed resized"
 
-programme_start_time = timer()
+output_directory = "C:/Users/Merlijn Kersten/Documents/code/merlijnkersten.github.io/assets"
 
-# Seperate dates into years/months/days and turn into strings.
-start_year = int(start[0:4])
-start_month = int(start[5:7])
-start_day = int(start[8:])
+output_html_path = "C:/Users/Merlijn Kersten/Desktop/html_text.txt"
 
-end_year = int(end[0:4])
-end_month = int(end[5:7])
-end_day = int(end[8:])
+files = sorted(os.listdir(input_directory))
 
-current_year = int(end_year)
-current_month = int(end_month)
-current_day = int(end_day)
+html_text_file = open(output_html_path, "w+")
 
-# Turn single diggit days and months into double digits: 5 --> '05' (needed for filename).
-def double_Digits(number):
-    if len(str(number)) == 1:
-        number = "0" + str(number)
-    else:
-        number = str(number)
-    return number
+month_dic = {
+    '01' : 'January',
+    '02' : 'February',
+    '03' : 'March',
+    '04' : 'April',
+    '05' : 'May',
+    '06' : 'June',
+    '07' : 'July',
+    '08' : 'August',
+    '09' : 'September',
+    '10' : 'October',
+    '11' : 'November',
+    '12' : 'December'
+}
 
-# Number of days per month (leap years dealt with later), names corresponding to numbers of month.
-month_lengths = {1:31, 2:28, 3:31, 4:30, 5:31, 6:30, 7:31, 8:31, 9:30, 10:31, 11:30, 12:31}
-month_names = {1:'January', 2:'February', 3:'March', 4:'April', 5:'May', 6:'June', 7:'July', 8:'August', 9:'September', 10:'October', 11:'November', 12:'December'}
+for filename in files:
+    f = os.path.join(input_directory, filename)
+    img = Image.open(f)
+    height = img.height
+    img.close()
 
-# Create a writeable textfile.
-html_text_file = open("htmltext.txt", "w+")
+    # month is 17:19 of namestring, date is 20:22.
+    long_date = filename[20:22] + " " + month_dic[filename[17:19]]
 
-# While the current date is not after the end date, create an image tag for that date. 
-while ((current_year == start_year and current_month == start_month) and current_day < start_day) == False:
-    # Special case: when the current year is a leap-year, set the month-length for February to the correct number of days, 29. Else is there to reset to 28 just in case.
-    if current_year%4 == 0: 
-        month_lengths[2] = 29
-    else:
-        month_lengths[2] = 28
-    # HTML tags. Line breaks are for (human) readability.
-    html_text_file.write('			<p><img src="/assets/soloespresso' + str(current_year) + '-' +  double_Digits(current_month) + '-' + double_Digits(current_day) + '.jpg" alt="'+ str(current_day) + " " + month_names[current_month] +'" /></p>' + '\n'),
-    html_text_file.write("			<p><em> " + str(current_day) + " " + month_names[current_month] +  " </em> </p>" + '\n'),
-    html_text_file.write('			\n'),
-    
-    # If the end of the year is reached, change current date to the first day of the next year (YYYY-31-12 --> YYYY+1-01-01). 
-    if current_day == 1 and current_month == 1:
-        current_month = 12
-        current_day = 31
-        current_year -= 1
-    # If the end of the month is reached, change current date to the first day of the next month (YYYY-MM-31 --> YYYY-MM+1-01).
-    elif current_day == 1:
-        current_month -= 1
-        current_day = month_lengths[current_month]
-    # Else change to the next day.
-    else:
-        current_day -= 1
+    html_text_file.write(f'			<p><img src="/assets/{filename} style="width:500px;height:{height}px;" loading="lazy" alt="{long_date}" /> </p> \n'),
+    html_text_file.write(f'			<p><em> {long_date} </em> </p> \n'),
+    html_text_file.write(f'			\n'),
 
-# Close the text file. Print statements that it is ready.
+
+    new_file_path = os.path.join(output_directory, filename)
+
+    os.rename(f, new_file_path)
+
 html_text_file.close()
-
-programme_end_time = timer()
-
-print(" ")
-print("File should be on your deskptop.")
-print("Captions, if any, should be added manually.")
-print("(Run time: %g seconds)" % (round(programme_end_time - programme_start_time, 4)))
-print(" ")
-
-
-
-
-
-
