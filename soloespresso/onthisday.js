@@ -19,20 +19,30 @@ function yearsSinceStart() {
 
     if (today < startNextYear) {
         // currentDate is before 21 April
-        return currentYear - 2018
+        //return currentYear - 2018
+        lastYear = 2019
     }
     else {
         // currentDate is on or after 21 April
-        return currentYear - 2018 + 1
+        //return currentYear - 2018 + 1
+        lastYear = 2018
     }
+
+    const yearsArray = []
+    let year = currentYear - 1
+    while (year >= lastYear) {
+        yearsArray.push(year)
+        year--
+    }
+
+    return yearsArray
 }
 
-
-function formatDate(years) {
+function formatDate(year) {
     // returns the date in the same format as the Github image URLs
     let month = String(today.getMonth() + 1),
         day = String(today.getDate()),
-        year = (today.getFullYear() - years)
+        year = year
 
     if (month.length < 2) {
         month = '0' + month
@@ -45,21 +55,35 @@ function formatDate(years) {
 }
 
 
-function generateURL(year) {
-    // generates URL to images in assets folder for a given year.
-    const githubURL = "/assets/soloespresso"
-    return githubURL + formatDate(year) + ".jpg"
+function generateSoloespressoURL(year) {
+    // generates URL to soloespresso images in assets folder for a given year.
+    return "/assets/soloespresso" + formatDate(year) + ".jpg"
 }
 
+function inNerdonanislandDates(date) {
+    // check to see if date is in Nerdonanisland dates
+    year = today.getFullYear()
+    const startDate = new Date([year, '07', '30'].join('-')).getTime();
+    const endDate = new Date([year, '12', '20'].join('-')).getTime();
+    return date >= startDate && date <= endDate;
+}
+
+function generateNerdonanislandURL() {
+    // generate URL to Nerdonanisland image in the assets folder
+    return "/assets/nerdonanisland" + formatDate(2017) + ".jpg"
+}
 
 // initialise an empty array which will be populated with image URLs.
 const imageURLs = []
 
-let i = 1 // don't show the image of the current year (which hasn't been taken/uploaded yet)
-while (i < yearsSinceStart()) {
-    let url = generateURL(i)
+for (year in yearsArray) {
+    let url = generateSoloespressoURL(year)
     imageURLs.push(url)
-    i++
+}
+
+if (inNerdonanislandDates(today) = true) {
+    let url = generateNerdonanislandURL()
+    imageURLs.push(url)
 }
 
 // https://raw.githubusercontent.com/merlijnkersten/merlijnkersten.github.io/master/assets/soloespresso-1651065564681-04-27.jpg
@@ -78,7 +102,7 @@ imageSequence()
 document.getElementById('image').addEventListener('click', imageSequence)
 
 // Print today's date below the picture in dd mmmm format.
-let date = today.getDate() +' ' + today.toLocaleString('default', { month: 'long' })
+//let date = today.getDate() +' ' + today.toLocaleString('default', { month: 'long' })
 
 document.querySelector("#date").innerText = date
 
