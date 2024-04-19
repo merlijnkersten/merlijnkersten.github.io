@@ -15,6 +15,8 @@ directory = "C:/Users/Merlijn Kersten/Documents/code/merlijnkersten.github.io/as
 
 img_height_dic = dict()
 
+img_width_dic = dict()
+
 for filename in os.listdir(directory):
     # soloespresso
     # 0123456789012
@@ -23,7 +25,14 @@ for filename in os.listdir(directory):
         img = Image.open(f)
         height = img.height
         img_height_dic[filename] = height
+        width = img.width
+        if width < 550:
+           img_width_dic[filename] = (width, height)
         img.close()
+
+print(img_width_dic)
+
+quit()
 
 file_path = "C:/Users/Merlijn Kersten/Documents/code/merlijnkersten.github.io/soloespresso.html"
 
