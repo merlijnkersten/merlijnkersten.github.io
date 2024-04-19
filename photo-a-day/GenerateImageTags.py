@@ -31,7 +31,7 @@ output_directory = "C:/Users/Merlijn Kersten/Documents/code/merlijnkersten.githu
 
 output_html_path = "C:/Users/Merlijn Kersten/Desktop/html_text.txt"
 
-files = sorted(os.listdir(input_directory))
+files = sorted(os.listdir(input_directory), reverse=True)
 
 html_text_file = open(output_html_path, "w+")
 
@@ -59,7 +59,7 @@ for filename in files:
     # month is 17:19 of namestring, date is 20:22.
     long_date = filename[20:22] + " " + month_dic[filename[17:19]]
 
-    html_text_file.write(f'			<p><img src="/assets/{filename} style="width:500px;height:{height}px;" loading="lazy" alt="{long_date}" /> </p> \n'),
+    html_text_file.write(f'			<p><img src="/assets/{filename}" style="width:500px;height:{height}px;" loading="lazy" alt="{long_date}" /> </p> \n'),
     html_text_file.write(f'			<p><em> {long_date} </em> </p> \n'),
     html_text_file.write(f'			\n'),
 
