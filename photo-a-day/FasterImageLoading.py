@@ -26,7 +26,7 @@ for filename in os.listdir(directory):
         height = img.height
         img_height_dic[filename] = height
         width = img.width
-        if width < 550:
+        if width > 550:
            img_width_dic[filename] = (width, height)
         img.close()
 
