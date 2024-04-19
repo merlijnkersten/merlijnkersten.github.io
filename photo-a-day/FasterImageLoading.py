@@ -9,6 +9,7 @@ Goal:
 
 from PIL import Image
 import os
+import re
 
 directory = "C:/Users/Merlijn Kersten/Documents/code/merlijnkersten.github.io/assets"
 
@@ -26,18 +27,48 @@ for filename in os.listdir(directory):
 
 file_path = "C:/Users/Merlijn Kersten/Documents/code/merlijnkersten.github.io/soloespresso.html"
 
+#print(img_height_dic)
+
+month_dic = {
+    '01' : 'January',
+    '02' : 'February',
+    '03' : 'March',
+    '04' : 'April',
+    '05' : 'May',
+    '06' : 'June',
+    '07' : 'July',
+    '08' : 'August',
+    '09' : 'September',
+    '10' : 'October',
+    '11' : 'November',
+    '12' : 'December'
+}
+
 # Read in the file
 with open(file_path, 'r') as file:
   filedata = file.read()
 
 for key in img_height_dic.keys():
    height = img_height_dic[key]
-   old_text = str(key) + '"'
-   new_text = old_text + f' style="width:500px;height:{height}px;" loading="lazy"'
+   old_text = "'/assets/" + str(key) +  "'/></p" 
+   month=key[17:19]
+   day=str(int(key[20:22]))
+   date = day + " " + month_dic[month]
+   new_text = '"/assets/' + str(key) + f'" style="width:550px;height:{height}px;" loading="lazy" alt="{date}" /></p'
    filedata = filedata.replace(old_text, new_text)
+   
 
+'''
+for key in img_height_dic.keys():
+   height = img_height_dic[key]
+   old_text = str(key) +  '" style="width:550px;height:(\d+)px;"' 
+   new_text = str(key) + f'" style="width:550px;height:{height}px;"'
+   filedata = re.sub(old_text, new_text, filedata, flags=re.M)
+'''
+# Write the file out again
 quit()
 
-# Write the file out again
+output_path = "C:/Users/Merlijn Kersten/Desktop/new.html"
+
 with open(file_path, 'w') as file:
   file.write(filedata)
