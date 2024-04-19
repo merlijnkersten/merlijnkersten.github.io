@@ -9,6 +9,18 @@ Todo: currently only shows images, at least two entries were videos and one had 
 */
 
 
+/*
+
+TO DO
+
+Figure out how to format datetime in Javascript
+
+Turn list of image URLS into a "date (1 January 2022) : soloespresso2022-01-01.jpg" dictionary
+
+Turn "on click" behaviour into changing image and date caption.
+
+*/
+
 let today = new Date()
 
 function yearsSinceStart() {
