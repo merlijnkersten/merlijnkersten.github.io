@@ -1,39 +1,55 @@
 """
-March 2024
+January 2025
+
+Input: resized photos (550px width, by Photoscape) with name 
+"soloespressoYYYY-MM-DD......jpg" all in the same folder.
 
 Steps:
-
-Preparation: all new photos in Renamed resized folder, with the correct name.
-
-Find all images in the Renamed resized folder (in Pictures folder).
-
-Sort these photos
-
-For all these photos
-
-    Find their height
-
-    Find their long date (dd month)
-
-    Write the html tags for the website to a file
-
-    Move the photos to the Assets folder (syncs to Github)
+- Rename photos (leaving "soloespressoYYYY-MM-DD.jpg"),
+    - Script stops if two files have the same name.
+- Find and soret all renamed photos. For all these photos:
+    - Find their height and long date (dd month),
+    - Write their html tags for the website to a file
+    - Move the photos to the Assets folder (syncs to Github)
 
 Output: photos in the right folder and new text file (on Desktop) with HTML code
-
 """
-import os
+import os 
 from PIL import Image
 
-input_directory = "C:/Users/Merlijn Kersten/Pictures/soloespresso/Renamed resized"
+input_dir = "C:/Users/Merlijn Kersten/Pictures/soloespresso/Renamed resized"
 
-output_directory = "C:/Users/Merlijn Kersten/Documents/code/merlijnkersten.github.io/assets"
+#output_dir = "C:/Users/Merlijn Kersten/Documents/code/merlijnkersten.github.io/assets"
+output_dir = "C:/Users/Merlijn Kersten/Desktop/test output"
 
-output_html_path = "C:/Users/Merlijn Kersten/Desktop/html_text.txt"
+output_file = "C:/Users/Merlijn Kersten/Desktop/html_text.txt"
 
-files = sorted(os.listdir(input_directory), reverse=True)
 
-html_text_file = open(output_html_path, "w+")
+# STEP 1: RENAME FILES
+
+os.chdir(input_dir)
+
+for subdir, dirs, files in os.walk(input_dir):
+    for file in files:
+        old_path = file
+        new_path = old_path[0:22] + ".jpg"
+        check_1 = old_path != new_path              # Are the two paths different? E.g. has the photo already been renamed
+        check_2 = os.path.isfile(new_path)          # Does the file path already exist?
+        if check_1 and not check_2:                 # Photo has not been renamed yet, and path does not exist yet. 
+            os.rename(old_path, new_path)
+        elif check_1 and check_2:                   # Path already exists, need to change the name of the photo/a previous photo.
+            print(f'Error! File already exists \n {old_path} \n {new_path}')
+            input('\nPress any key to quit')
+            quit()
+        else:                                       # The photo has already been renamed and the path exists: NFA.
+            pass
+
+
+# STEP 2: CREATE HTML-TAGS AND MOVE FILES
+
+files = sorted(os.listdir(input_dir), reverse=True)
+
+html_text_file = open(output_file, "w+")
 
 month_dic = {
     '01' : 'January',
@@ -51,7 +67,7 @@ month_dic = {
 }
 
 for filename in files:
-    f = os.path.join(input_directory, filename)
+    f = os.path.join(input_dir, filename)
     img = Image.open(f)
     height = img.height
     img.close()
@@ -64,7 +80,7 @@ for filename in files:
     html_text_file.write(f'			\n'),
 
 
-    new_file_path = os.path.join(output_directory, filename)
+    new_file_path = os.path.join(output_dir, filename)
 
     os.rename(f, new_file_path)
 

@@ -14,24 +14,21 @@
 # Returns number of images that need attention.
 # Alternative to "RenamingResizingPhotos.py"; this can be used until aforementioned is ready.
 import os
-from datetime import datetime
-import random
 
 root_directory = "C:/Users/Merlijn Kersten/Pictures/soloespresso/Renamed resized"
 os.chdir(root_directory)
-
-i = 0
 
 for subdir, dirs, files in os.walk(root_directory):
     for file in files:
         old_path = file
         new_path = old_path[0:22] + ".jpg"
-        if os.path.isfile(new_path) != True:
+        check_1 = old_path != new_path              # Are the two paths different? E.g. has the photo already been renamed
+        check_2 = os.path.isfile(new_path)          # Does the file path already exist?
+        if check_1 and not check_2:                 # Photo has not been renamed yet, and path does not exist yet. 
             os.rename(old_path, new_path)
-        else:
-            new_path = "ATTENTION_" + str(random.randint(1,100000)) + "_" + new_path
-            os.rename(old_path, new_path)
-            i += 1
-
-print("Attention need for " + str(i) + " files.")
-
+        elif check_1 and check_2:                   # Path already exists, need to change the name of the photo/a previous photo.
+            print(f'Error! File already exists \n {old_path} \n {new_path}')
+            input('\nPress any key to quit')
+            quit()
+        else:                                       # The photo has already been renamed and the path exists: NFA.
+            pass
