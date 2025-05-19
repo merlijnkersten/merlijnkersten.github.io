@@ -19,8 +19,8 @@ from PIL import Image
 
 input_dir = "C:/Users/Merlijn Kersten/Pictures/soloespresso/Renamed resized"
 
-#output_dir = "C:/Users/Merlijn Kersten/Documents/code/merlijnkersten.github.io/assets"
-output_dir = "C:/Users/Merlijn Kersten/Desktop/test output"
+output_dir = "C:/Users/Merlijn Kersten/Documents/code/merlijnkersten.github.io/assets"
+#output_dir = "C:/Users/Merlijn Kersten/Desktop/test output"
 
 output_file = "C:/Users/Merlijn Kersten/Desktop/html_text.txt"
 
