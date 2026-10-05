@@ -74,8 +74,7 @@ for filename in files:
     print(filename)
     # month is 17:19 of namestring, date is 20:22.
     long_date = str(int(filename[20:22])) + " " + month_dic[filename[17:19]]
-
-    html_text_file.write(f'			<p><img src="/assets/{filename}" style="width:550px;height:{height}px;" loading="lazy" alt="{long_date}" /> </p> \n'),
+    html_text_file.write(f'			<p><img src="/assets/{filename}" width="550" height={height} loading="lazy" alt="{long_date}" /> </p> \n'),
     html_text_file.write(f'			<p><em> {long_date} </em> </p> \n'),
     html_text_file.write(f'			\n'),
 
