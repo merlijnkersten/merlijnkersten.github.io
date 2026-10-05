@@ -15,7 +15,8 @@
 # Alternative to "RenamingResizingPhotos.py"; this can be used until aforementioned is ready.
 import os
 
-root_directory = "C:/Users/Merlijn Kersten/Pictures/soloespresso/Renamed resized"
+#root_directory = "C:/Users/Merlijn Kersten/Pictures/soloespresso/Renamed resized"
+root_directory = "/home/rahel/Pictures/soloespresso/Renamed resized"
 os.chdir(root_directory)
 
 for subdir, dirs, files in os.walk(root_directory):

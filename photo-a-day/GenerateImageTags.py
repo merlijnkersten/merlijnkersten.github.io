@@ -17,16 +17,16 @@ Output: photos in the right folder and new text file (on Desktop) with HTML code
 import os 
 from PIL import Image
 
-input_dir = "C:/Users/Merlijn Kersten/Pictures/soloespresso/Renamed resized"
+input_dir = "/home/rahel/Pictures/soloespresso/Renamed resized/"
 
-output_dir = "C:/Users/Merlijn Kersten/Documents/code/merlijnkersten.github.io/assets"
-#output_dir = "C:/Users/Merlijn Kersten/Desktop/test output"
+#output_dir = "/home/rahel/Documents/code/merlijnkersten.github.io/assets"
+output_dir = "/home/rahel/Desktop/test output"
 
-output_file = "C:/Users/Merlijn Kersten/Desktop/html_text.txt"
+output_file = "/home/rahel/Desktop/html_text.txt"
 
 
 # STEP 1: RENAME FILES
-
+"""
 os.chdir(input_dir)
 
 for subdir, dirs, files in os.walk(input_dir):
@@ -43,12 +43,12 @@ for subdir, dirs, files in os.walk(input_dir):
             quit()
         else:                                       # The photo has already been renamed and the path exists: NFA.
             pass
-
+"""
 
 # STEP 2: CREATE HTML-TAGS AND MOVE FILES
 
 files = sorted(os.listdir(input_dir), reverse=True)
-
+print(files)
 html_text_file = open(output_file, "w+")
 
 month_dic = {
@@ -71,7 +71,7 @@ for filename in files:
     img = Image.open(f)
     height = img.height
     img.close()
-
+    print(filename)
     # month is 17:19 of namestring, date is 20:22.
     long_date = str(int(filename[20:22])) + " " + month_dic[filename[17:19]]
 
