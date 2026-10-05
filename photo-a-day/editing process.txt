@@ -1,5 +1,0 @@
-STEPS
-1. Edit photos in Rawtherapee
-2. Rename photos in Digikam
-3. Batch apply "550" profile in Rawtherapee
-
