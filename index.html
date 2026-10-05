@@ -2,33 +2,37 @@
 <html>
 	<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, width=device-width, user-scalable=no" />
 	<head>
-		<title> Hello! </title>
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
+		<title>☕</title>
+		<link rel="stylesheet" type="text/css" href="/css/soloespresso.css">
+		<meta charset='utf-8'>
+		<link href='https://fonts.googleapis.com/css?family=Bitter&display=swap' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
 	</head>
 	<body>
 		<nav>
-    		<ul>
-        		<li><a href="/about">about</a></li>
-	        	<li><a href="/soloespresso">soloespresso</a></li>
-        		<li><a href="/nerdonanisland">nerdonanisland</a></li>
-    		</ul>
+			<ul>
+				<li><a href="/soloespresso">soloespresso</a></li>
+				<li><a href="/nerdonanisland">nerdonanisland</a></li>
+			</ul>
 		</nav>
 		<div class="container">
-    		<div class="blurb">
-			<h1>Hello! </h1>
-			<p> Welcome to my website where I collect my photos and other things.</p>
-			<p> You can find my current photo-a-day pictures <a href="/soloespresso">here</a> and those from Singapore <a href="/nerdonanisland">here</a>. </p>
-			<p> This website also has my <a href="/thesis.pdf">bachelor thesis</a> and a page on my <a href="/dissertation">master dissertation</a>. </p>
-			<p> If you spot a mistake or want to say hi, send me an <a href="mailto:merlijnkersten@gmail.com">email</a>. </p>
-			<p><img src='/assets/indeximage.jpg' alt='The Lion City' referrerPolicy='no-referrer' /></p>
+		<div class="blurb">
+
+			<br>
+
+			<hr/>
+
+			<p> A photo-a-day, updated irregularly. Click on the photo below, to see the past entries on this day!</p>
+
+
+			<hr/>
+
+			<img id="image" width=550px height=auto />
+			<p> <em><span id="date">date</span></em></p>
+
+			<script src="./onthisday.js" type="module"></script>
+
+			</div>
 		</div>
-		</div>
-		<footer>
-    		<ul>
-			<li><a href="https://printi.me/mango">printi.me/mango</a></li>
-			<li><a href="mailto:kerstenmerlijn@gmail.com">email</a></li>
-        		<li><a href="https://github.com/merlijnkersten">github</a></li>
-			</ul>
-		</footer>
 	</body>
 </html>
